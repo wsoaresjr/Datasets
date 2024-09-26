@@ -1,0 +1,892 @@
+ID_PASSAGEIRO;SOBREVIVENTE;CLASSE;NOME;GENERO;IDADE;IRMAOS_CONJUGE;PAIS_CRIANCAS;BILHETE;TARIFA;CABINE;LOCAL_EMBARQUE
+1;Nao;Terceira Classe;Braund, Mr. Owen Harris;Masculino;22;1;0;A/5 21171;$725,00;;Southampton
+2;Sim;Primeira Classe;Cumings, Mrs. John Bradley (Florence Briggs Thayer);Feminino;38;1;0;PC 17599;$712.833,00;C85;Cherbourg
+3;Sim;Terceira Classe;Heikkinen, Miss. Laina;Feminino;26;0;0;STON/O2. 3101282;$7.925,00;;Southampton
+4;Sim;Primeira Classe;Futrelle, Mrs. Jacques Heath (Lily May Peel);Feminino;35;1;0;113803;$531,00;C123;Southampton
+5;Nao;Terceira Classe;Allen, Mr. William Henry;Masculino;35;0;0;373450;$805,00;;Southampton
+6;Nao;Terceira Classe;Moran, Mr. James;Masculino;;0;0;330877;$84.583,00;;Queenstown
+7;Nao;Primeira Classe;McCarthy, Mr. Timothy J;Masculino;54;0;0;17463;$518.625,00;E46;Southampton
+8;Nao;Terceira Classe;Palsson, Master. Gosta Leonard;Masculino;2;3;1;349909;$21.075,00;;Southampton
+9;Sim;Terceira Classe;Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);Feminino;27;0;2;347742;$111.333,00;;Southampton
+10;Sim;Segunda Classe;Nasser, Mrs. Nicholas (Adele Achem);Feminino;14;1;0;237736;$300.708,00;;Cherbourg
+11;Sim;Terceira Classe;Sandstrom, Miss. Marguerite Rut;Feminino;4;1;1;PP 9549;$167,00;G6;Southampton
+12;Sim;Primeira Classe;Bonnell, Miss. Elizabeth;Feminino;58;0;0;113783;$2.655,00;C103;Southampton
+13;Nao;Terceira Classe;Saundercock, Mr. William Henry;Masculino;20;0;0;A/5. 2151;$805,00;;Southampton
+14;Nao;Terceira Classe;Andersson, Mr. Anders Johan;Masculino;39;1;5;347082;$31.275,00;;Southampton
+15;Nao;Terceira Classe;Vestrom, Miss. Hulda Amanda Adolfina;Feminino;14;0;0;350406;$78.542,00;;Southampton
+16;Sim;Segunda Classe;Hewlett, Mrs. (Mary D Kingcome) ;Feminino;55;0;0;248706;$16,00;;Southampton
+17;Nao;Terceira Classe;Rice, Master. Eugene;Masculino;2;4;1;382652;$29.125,00;;Queenstown
+18;Sim;Segunda Classe;Williams, Mr. Charles Eugene;Masculino;;0;0;244373;$13,00;;Southampton
+19;Nao;Terceira Classe;Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele);Feminino;31;1;0;345763;$18,00;;Southampton
+20;Sim;Terceira Classe;Masselmani, Mrs. Fatima;Feminino;;0;0;2649;$7.225,00;;Cherbourg
+21;Nao;Segunda Classe;Fynney, Mr. Joseph J;Masculino;35;0;0;239865;$26,00;;Southampton
+22;Sim;Segunda Classe;Beesley, Mr. Lawrence;Masculino;34;0;0;248698;$13,00;D56;Southampton
+23;Sim;Terceira Classe;"McGowan, Miss. Anna ""Annie""";Feminino;15;0;0;330923;$80.292,00;;Queenstown
+24;Sim;Primeira Classe;Sloper, Mr. William Thompson;Masculino;28;0;0;113788;$355,00;A6;Southampton
+25;Nao;Terceira Classe;Palsson, Miss. Torborg Danira;Feminino;8;3;1;349909;$21.075,00;;Southampton
+26;Sim;Terceira Classe;Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);Feminino;38;1;5;347077;$313.875,00;;Southampton
+27;Nao;Terceira Classe;Emir, Mr. Farred Chehab;Masculino;;0;0;2631;$7.225,00;;Cherbourg
+28;Nao;Primeira Classe;Fortune, Mr. Charles Alexander;Masculino;19;3;2;19950;$263,00;C23 C25 C27;Southampton
+29;Sim;Terceira Classe;"O'Dwyer, Miss. Ellen ""Nellie""";Feminino;;0;0;330959;$78.792,00;;Queenstown
+30;Nao;Terceira Classe;Todoroff, Mr. Lalio;Masculino;;0;0;349216;$78.958,00;;Southampton
+31;Nao;Primeira Classe;Uruchurtu, Don. Manuel E;Masculino;40;0;0;PC 17601;$277.208,00;;Cherbourg
+32;Sim;Primeira Classe;Spencer, Mrs. William Augustus (Marie Eugenie);Feminino;;1;0;PC 17569;$1.465.208,00;B78;Cherbourg
+33;Sim;Terceira Classe;Glynn, Miss. Mary Agatha;Feminino;;0;0;335677;$775,00;;Queenstown
+34;Nao;Segunda Classe;Wheadon, Mr. Edward H;Masculino;66;0;0;C.A. 24579;$105,00;;Southampton
+35;Nao;Primeira Classe;Meyer, Mr. Edgar Joseph;Masculino;28;1;0;PC 17604;$821.708,00;;Cherbourg
+36;Nao;Primeira Classe;Holverson, Mr. Alexander Oskar;Masculino;42;1;0;113789;$52,00;;Southampton
+37;Sim;Terceira Classe;Mamee, Mr. Hanna;Masculino;;0;0;2677;$72.292,00;;Cherbourg
+38;Nao;Terceira Classe;Cann, Mr. Ernest Charles;Masculino;21;0;0;A./5. 2152;$805,00;;Southampton
+39;Nao;Terceira Classe;Vander Planke, Miss. Augusta Maria;Feminino;18;2;0;345764;$18,00;;Southampton
+40;Sim;Terceira Classe;Nicola-Yarred, Miss. Jamila;Feminino;14;1;0;2651;$112.417,00;;Cherbourg
+41;Nao;Terceira Classe;Ahlin, Mrs. Johan (Johanna Persdotter Larsson);Feminino;40;1;0;7546;$9.475,00;;Southampton
+42;Nao;Segunda Classe;Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott);Feminino;27;1;0;11668;$21,00;;Southampton
+43;Nao;Terceira Classe;Kraeff, Mr. Theodor;Masculino;;0;0;349253;$78.958,00;;Cherbourg
+44;Sim;Segunda Classe;Laroche, Miss. Simonne Marie Anne Andree;Feminino;3;1;2;SC/Paris 2123;$415.792,00;;Cherbourg
+45;Sim;Terceira Classe;Devaney, Miss. Margaret Delia;Feminino;19;0;0;330958;$78.792,00;;Queenstown
+46;Nao;Terceira Classe;Rogers, Mr. William John;Masculino;;0;0;S.C./A.4. 23567;$805,00;;Southampton
+47;Nao;Terceira Classe;Lennon, Mr. Denis;Masculino;;1;0;370371;$155,00;;Queenstown
+48;Sim;Terceira Classe;O'Driscoll, Miss. Bridget;Feminino;;0;0;14311;$775,00;;Queenstown
+49;Nao;Terceira Classe;Samaan, Mr. Youssef;Masculino;;2;0;2662;$216.792,00;;Cherbourg
+50;Nao;Terceira Classe;Arnold-Franchi, Mrs. Josef (Josefine Franchi);Feminino;18;1;0;349237;$178,00;;Southampton
+51;Nao;Terceira Classe;Panula, Master. Juha Niilo;Masculino;7;4;1;3101295;$396.875,00;;Southampton
+52;Nao;Terceira Classe;Nosworthy, Mr. Richard Cater;Masculino;21;0;0;A/4. 39886;$78,00;;Southampton
+53;Sim;Primeira Classe;Harper, Mrs. Henry Sleeper (Myna Haxtun);Feminino;49;1;0;PC 17572;$767.292,00;D33;Cherbourg
+54;Sim;Segunda Classe;Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson);Feminino;29;1;0;2926;$26,00;;Southampton
+55;Nao;Primeira Classe;Ostby, Mr. Engelhart Cornelius;Masculino;65;0;1;113509;$619.792,00;B30;Cherbourg
+56;Sim;Primeira Classe;Woolner, Mr. Hugh;Masculino;;0;0;19947;$355,00;C52;Southampton
+57;Sim;Segunda Classe;Rugg, Miss. Emily;Feminino;21;0;0;C.A. 31026;$105,00;;Southampton
+58;Nao;Terceira Classe;Novel, Mr. Mansouer;Masculino;28;0;0;2697;$72.292,00;;Cherbourg
+59;Sim;Segunda Classe;West, Miss. Constance Mirium;Feminino;5;1;2;C.A. 34651;$2.775,00;;Southampton
+60;Nao;Terceira Classe;Goodwin, Master. William Frederick;Masculino;11;5;2;CA 2144;$469,00;;Southampton
+61;Nao;Terceira Classe;Sirayanian, Mr. Orsen;Masculino;22;0;0;2669;$72.292,00;;Cherbourg
+62;Sim;Primeira Classe;Icard, Miss. Amelie;Feminino;38;0;0;113572;$80,00;B28;
+63;Nao;Primeira Classe;Harris, Mr. Henry Birkhardt;Masculino;45;1;0;36973;$83.475,00;C83;Southampton
+64;Nao;Terceira Classe;Skoog, Master. Harald;Masculino;4;3;2;347088;$279,00;;Southampton
+65;Nao;Primeira Classe;Stewart, Mr. Albert A;Masculino;;0;0;PC 17605;$277.208,00;;Cherbourg
+66;Sim;Terceira Classe;Moubarek, Master. Gerios;Masculino;;1;1;2661;$152.458,00;;Cherbourg
+67;Sim;Segunda Classe;Nye, Mrs. (Elizabeth Ramell);Feminino;29;0;0;C.A. 29395;$105,00;F33;Southampton
+68;Nao;Terceira Classe;Crease, Mr. Ernest James;Masculino;19;0;0;S.P. 3464;$81.583,00;;Southampton
+69;Sim;Terceira Classe;Andersson, Miss. Erna Alexandra;Feminino;17;4;2;3101281;$7.925,00;;Southampton
+70;Nao;Terceira Classe;Kink, Mr. Vincenz;Masculino;26;2;0;315151;$86.625,00;;Southampton
+71;Nao;Segunda Classe;Jenkin, Mr. Stephen Curnow;Masculino;32;0;0;C.A. 33111;$105,00;;Southampton
+72;Nao;Terceira Classe;Goodwin, Miss. Lillian Amy;Feminino;16;5;2;CA 2144;$469,00;;Southampton
+73;Nao;Segunda Classe;Hood, Mr. Ambrose Jr;Masculino;21;0;0;S.O.C. 14879;$735,00;;Southampton
+74;Nao;Terceira Classe;Chronopoulos, Mr. Apostolos;Masculino;26;1;0;2680;$144.542,00;;Cherbourg
+75;Sim;Terceira Classe;Bing, Mr. Lee;Masculino;32;0;0;1601;$564.958,00;;Southampton
+76;Nao;Terceira Classe;Moen, Mr. Sigurd Hansen;Masculino;25;0;0;348123;$765,00;F G73;Southampton
+77;Nao;Terceira Classe;Staneff, Mr. Ivan;Masculino;;0;0;349208;$78.958,00;;Southampton
+78;Nao;Terceira Classe;Moutal, Mr. Rahamin Haim;Masculino;;0;0;374746;$805,00;;Southampton
+79;Sim;Segunda Classe;Caldwell, Master. Alden Gates;Masculino;83;0;2;248738;$29,00;;Southampton
+80;Sim;Terceira Classe;Dowdell, Miss. Elizabeth;Feminino;30;0;0;364516;$12.475,00;;Southampton
+81;Nao;Terceira Classe;Waelens, Mr. Achille;Masculino;22;0;0;345767;$9,00;;Southampton
+82;Sim;Terceira Classe;Sheerlinck, Mr. Jan Baptist;Masculino;29;0;0;345779;$95,00;;Southampton
+83;Sim;Terceira Classe;McDermott, Miss. Brigdet Delia;Feminino;;0;0;330932;$77.875,00;;Queenstown
+84;Nao;Primeira Classe;Carrau, Mr. Francisco M;Masculino;28;0;0;113059;$471,00;;Southampton
+85;Sim;Segunda Classe;Ilett, Miss. Bertha;Feminino;17;0;0;SO/C 14885;$105,00;;Southampton
+86;Sim;Terceira Classe;Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson);Feminino;33;3;0;3101278;$1.585,00;;Southampton
+87;Nao;Terceira Classe;Ford, Mr. William Neal;Masculino;16;1;3;W./C. 6608;$34.375,00;;Southampton
+88;Nao;Terceira Classe;Slocovski, Mr. Selman Francis;Masculino;;0;0;SOTON/OQ 392086;$805,00;;Southampton
+89;Sim;Primeira Classe;Fortune, Miss. Mabel Helen;Feminino;23;3;2;19950;$263,00;C23 C25 C27;Southampton
+90;Nao;Terceira Classe;Celotti, Mr. Francesco;Masculino;24;0;0;343275;$805,00;;Southampton
+91;Nao;Terceira Classe;Christmann, Mr. Emil;Masculino;29;0;0;343276;$805,00;;Southampton
+92;Nao;Terceira Classe;Andreasson, Mr. Paul Edvin;Masculino;20;0;0;347466;$78.542,00;;Southampton
+93;Nao;Primeira Classe;Chaffee, Mr. Herbert Fuller;Masculino;46;1;0;W.E.P. 5734;$61.175,00;E31;Southampton
+94;Nao;Terceira Classe;Dean, Mr. Bertram Frank;Masculino;26;1;2;C.A. 2315;$20.575,00;;Southampton
+95;Nao;Terceira Classe;Coxon, Mr. Daniel;Masculino;59;0;0;364500;$725,00;;Southampton
+96;Nao;Terceira Classe;Shorney, Mr. Charles Joseph;Masculino;;0;0;374910;$805,00;;Southampton
+97;Nao;Primeira Classe;Goldschmidt, Mr. George B;Masculino;71;0;0;PC 17754;$346.542,00;A5;Cherbourg
+98;Sim;Primeira Classe;Greenfield, Mr. William Bertram;Masculino;23;0;1;PC 17759;$633.583,00;D10 D12;Cherbourg
+99;Sim;Segunda Classe;Doling, Mrs. John T (Ada Julia Bone);Feminino;34;0;1;231919;$23,00;;Southampton
+100;Nao;Segunda Classe;Kantor, Mr. Sinai;Masculino;34;1;0;244367;$26,00;;Southampton
+101;Nao;Terceira Classe;Petranec, Miss. Matilda;Feminino;28;0;0;349245;$78.958,00;;Southampton
+102;Nao;Terceira Classe;"Petroff, Mr. Pastcho (""Pentcho"")";Masculino;;0;0;349215;$78.958,00;;Southampton
+103;Nao;Primeira Classe;White, Mr. Richard Frasar;Masculino;21;0;1;35281;$772.875,00;D26;Southampton
+104;Nao;Terceira Classe;Johansson, Mr. Gustaf Joel;Masculino;33;0;0;7540;$86.542,00;;Southampton
+105;Nao;Terceira Classe;Gustafsson, Mr. Anders Vilhelm;Masculino;37;2;0;3101276;$7.925,00;;Southampton
+106;Nao;Terceira Classe;Mionoff, Mr. Stoytcho;Masculino;28;0;0;349207;$78.958,00;;Southampton
+107;Sim;Terceira Classe;Salkjelsvik, Miss. Anna Kristine;Feminino;21;0;0;343120;$765,00;;Southampton
+108;Sim;Terceira Classe;Moss, Mr. Albert Johan;Masculino;;0;0;312991;$7.775,00;;Southampton
+109;Nao;Terceira Classe;Rekic, Mr. Tido;Masculino;38;0;0;349249;$78.958,00;;Southampton
+110;Sim;Terceira Classe;Moran, Miss. Bertha;Feminino;;1;0;371110;$2.415,00;;Queenstown
+111;Nao;Primeira Classe;Porter, Mr. Walter Chamberlain;Masculino;47;0;0;110465;$52,00;C110;Southampton
+112;Nao;Terceira Classe;Zabour, Miss. Hileni;Feminino;15;1;0;2665;$144.542,00;;Cherbourg
+113;Nao;Terceira Classe;Barton, Mr. David John;Masculino;22;0;0;324669;$805,00;;Southampton
+114;Nao;Terceira Classe;Jussila, Miss. Katriina;Feminino;20;1;0;4136;$9.825,00;;Southampton
+115;Nao;Terceira Classe;Attalah, Miss. Malake;Feminino;17;0;0;2627;$144.583,00;;Cherbourg
+116;Nao;Terceira Classe;Pekoniemi, Mr. Edvard;Masculino;21;0;0;STON/O 2. 3101294;$7.925,00;;Southampton
+117;Nao;Terceira Classe;Connors, Mr. Patrick;Masculino;70;0;0;370369;$775,00;;Queenstown
+118;Nao;Segunda Classe;Turpin, Mr. William John Robert;Masculino;29;1;0;11668;$21,00;;Southampton
+119;Nao;Primeira Classe;Baxter, Mr. Quigg Edmond;Masculino;24;0;1;PC 17558;$2.475.208,00;B58 B60;Cherbourg
+120;Nao;Terceira Classe;Andersson, Miss. Ellis Anna Maria;Feminino;2;4;2;347082;$31.275,00;;Southampton
+121;Nao;Segunda Classe;Hickman, Mr. Stanley George;Masculino;21;2;0;S.O.C. 14879;$735,00;;Southampton
+122;Nao;Terceira Classe;Moore, Mr. Leonard Charles;Masculino;;0;0;A4. 54510;$805,00;;Southampton
+123;Nao;Segunda Classe;Nasser, Mr. Nicholas;Masculino;32;1;0;237736;$300.708,00;;Cherbourg
+124;Sim;Segunda Classe;Webber, Miss. Susan;Feminino;32;0;0;27267;$13,00;E101;Southampton
+125;Nao;Primeira Classe;White, Mr. Percival Wayland;Masculino;54;0;1;35281;$772.875,00;D26;Southampton
+126;Sim;Terceira Classe;Nicola-Yarred, Master. Elias;Masculino;12;1;0;2651;$112.417,00;;Cherbourg
+127;Nao;Terceira Classe;McMahon, Mr. Martin;Masculino;;0;0;370372;$775,00;;Queenstown
+128;Sim;Terceira Classe;Madsen, Mr. Fridtjof Arne;Masculino;24;0;0;C 17369;$71.417,00;;Southampton
+129;Sim;Terceira Classe;Peter, Miss. Anna;Feminino;;1;1;2668;$223.583,00;F E69;Cherbourg
+130;Nao;Terceira Classe;Ekstrom, Mr. Johan;Masculino;45;0;0;347061;$6.975,00;;Southampton
+131;Nao;Terceira Classe;Drazenoic, Mr. Jozef;Masculino;33;0;0;349241;$78.958,00;;Cherbourg
+132;Nao;Terceira Classe;Coelho, Mr. Domingos Fernandeo;Masculino;20;0;0;SOTON/O.Q. 3101307;$705,00;;Southampton
+133;Nao;Terceira Classe;Robins, Mrs. Alexander A (Grace Charity Laury);Feminino;47;1;0;A/5. 3337;$145,00;;Southampton
+134;Sim;Segunda Classe;Weisz, Mrs. Leopold (Mathilde Francoise Pede);Feminino;29;1;0;228414;$26,00;;Southampton
+135;Nao;Segunda Classe;Sobey, Mr. Samuel James Hayden;Masculino;25;0;0;C.A. 29178;$13,00;;Southampton
+136;Nao;Segunda Classe;Richard, Mr. Emile;Masculino;23;0;0;SC/PARIS 2133;$150.458,00;;Cherbourg
+137;Sim;Primeira Classe;Newsom, Miss. Helen Monypeny;Feminino;19;0;2;11752;$262.833,00;D47;Southampton
+138;Nao;Primeira Classe;Futrelle, Mr. Jacques Heath;Masculino;37;1;0;113803;$531,00;C123;Southampton
+139;Nao;Terceira Classe;Osen, Mr. Olaf Elon;Masculino;16;0;0;7534;$92.167,00;;Southampton
+140;Nao;Primeira Classe;Giglio, Mr. Victor;Masculino;24;0;0;PC 17593;$792,00;B86;Cherbourg
+141;Nao;Terceira Classe;Boulos, Mrs. Joseph (Sultana);Feminino;;0;2;2678;$152.458,00;;Cherbourg
+142;Sim;Terceira Classe;Nysten, Miss. Anna Sofia;Feminino;22;0;0;347081;$775,00;;Southampton
+143;Sim;Terceira Classe;Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck);Feminino;24;1;0;STON/O2. 3101279;$1.585,00;;Southampton
+144;Nao;Terceira Classe;Burke, Mr. Jeremiah;Masculino;19;0;0;365222;$675,00;;Queenstown
+145;Nao;Segunda Classe;Andrew, Mr. Edgardo Samuel;Masculino;18;0;0;231945;$115,00;;Southampton
+146;Nao;Segunda Classe;Nicholls, Mr. Joseph Charles;Masculino;19;1;1;C.A. 33112;$3.675,00;;Southampton
+147;Sim;Terceira Classe;"Andersson, Mr. August Edvard (""Wennerstrom"")";Masculino;27;0;0;350043;$77.958,00;;Southampton
+148;Nao;Terceira Classe;"Ford, Miss. Robina Maggie ""Ruby""";Feminino;9;2;2;W./C. 6608;$34.375,00;;Southampton
+149;Nao;Segunda Classe;"Navratil, Mr. Michel (""Louis M Hoffman"")";Masculino;36;0;2;230080;$26,00;F2;Southampton
+150;Nao;Segunda Classe;Byles, Rev. Thomas Roussel Davids;Masculino;42;0;0;244310;$13,00;;Southampton
+151;Nao;Segunda Classe;Bateman, Rev. Robert James;Masculino;51;0;0;S.O.P. 1166;$12.525,00;;Southampton
+152;Sim;Primeira Classe;Pears, Mrs. Thomas (Edith Wearne);Feminino;22;1;0;113776;$666,00;C2;Southampton
+153;Nao;Terceira Classe;Meo, Mr. Alfonzo;Masculino;55;0;0;A.5. 11206;$805,00;;Southampton
+154;Nao;Terceira Classe;van Billiard, Mr. Austin Blyler;Masculino;40;0;2;A/5. 851;$145,00;;Southampton
+155;Nao;Terceira Classe;Olsen, Mr. Ole Martin;Masculino;;0;0;Fa 265302;$73.125,00;;Southampton
+156;Nao;Primeira Classe;Williams, Mr. Charles Duane;Masculino;51;0;1;PC 17597;$613.792,00;;Cherbourg
+157;Sim;Terceira Classe;"Gilnagh, Miss. Katherine ""Katie""";Feminino;16;0;0;35851;$77.333,00;;Queenstown
+158;Nao;Terceira Classe;Corn, Mr. Harry;Masculino;30;0;0;SOTON/OQ 392090;$805,00;;Southampton
+159;Nao;Terceira Classe;Smiljanic, Mr. Mile;Masculino;;0;0;315037;$86.625,00;;Southampton
+160;Nao;Terceira Classe;Sage, Master. Thomas Henry;Masculino;;8;2;CA. 2343;$6.955,00;;Southampton
+161;Nao;Terceira Classe;Cribb, Mr. John Hatfield;Masculino;44;0;1;371362;$161,00;;Southampton
+162;Sim;Segunda Classe;"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)";Feminino;40;0;0;C.A. 33595;$1.575,00;;Southampton
+163;Nao;Terceira Classe;Bengtsson, Mr. John Viktor;Masculino;26;0;0;347068;$7.775,00;;Southampton
+164;Nao;Terceira Classe;Calic, Mr. Jovo;Masculino;17;0;0;315093;$86.625,00;;Southampton
+165;Nao;Terceira Classe;Panula, Master. Eino Viljami;Masculino;1;4;1;3101295;$396.875,00;;Southampton
+166;Sim;Terceira Classe;"Goldsmith, Master. Frank John William ""Frankie""";Masculino;9;0;2;363291;$20.525,00;;Southampton
+167;Sim;Primeira Classe;Chibnall, Mrs. (Edith Martha Bowerman);Feminino;;0;1;113505;$55,00;E33;Southampton
+168;Nao;Terceira Classe;Skoog, Mrs. William (Anna Bernhardina Karlsson);Feminino;45;1;4;347088;$279,00;;Southampton
+169;Nao;Primeira Classe;Baumann, Mr. John D;Masculino;;0;0;PC 17318;$25.925,00;;Southampton
+170;Nao;Terceira Classe;Ling, Mr. Lee;Masculino;28;0;0;1601;$564.958,00;;Southampton
+171;Nao;Primeira Classe;Van der hoef, Mr. Wyckoff;Masculino;61;0;0;111240;$335,00;B19;Southampton
+172;Nao;Terceira Classe;Rice, Master. Arthur;Masculino;4;4;1;382652;$29.125,00;;Queenstown
+173;Sim;Terceira Classe;Johnson, Miss. Eleanor Ileen;Feminino;1;1;1;347742;$111.333,00;;Southampton
+174;Nao;Terceira Classe;Sivola, Mr. Antti Wilhelm;Masculino;21;0;0;STON/O 2. 3101280;$7.925,00;;Southampton
+175;Nao;Primeira Classe;Smith, Mr. James Clinch;Masculino;56;0;0;17764;$306.958,00;A7;Cherbourg
+176;Nao;Terceira Classe;Klasen, Mr. Klas Albin;Masculino;18;1;1;350404;$78.542,00;;Southampton
+177;Nao;Terceira Classe;Lefebre, Master. Henry Forbes;Masculino;;3;1;4133;$254.667,00;;Southampton
+178;Nao;Primeira Classe;Isham, Miss. Ann Elizabeth;Feminino;50;0;0;PC 17595;$287.125,00;C49;Cherbourg
+179;Nao;Segunda Classe;Hale, Mr. Reginald;Masculino;30;0;0;250653;$13,00;;Southampton
+180;Nao;Terceira Classe;Leonard, Mr. Lionel;Masculino;36;0;0;LINE;$0,00;;Southampton
+181;Nao;Terceira Classe;Sage, Miss. Constance Gladys;Feminino;;8;2;CA. 2343;$6.955,00;;Southampton
+182;Nao;Segunda Classe;Pernot, Mr. Rene;Masculino;;0;0;SC/PARIS 2131;$1.505,00;;Cherbourg
+183;Nao;Terceira Classe;Asplund, Master. Clarence Gustaf Hugo;Masculino;9;4;2;347077;$313.875,00;;Southampton
+184;Sim;Segunda Classe;Becker, Master. Richard F;Masculino;1;2;1;230136;$39,00;F4;Southampton
+185;Sim;Terceira Classe;Kink-Heilmann, Miss. Luise Gretchen;Feminino;4;0;2;315153;$22.025,00;;Southampton
+186;Nao;Primeira Classe;Rood, Mr. Hugh Roscoe;Masculino;;0;0;113767;$50,00;A32;Southampton
+187;Sim;Terceira Classe;"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)";Feminino;;1;0;370365;$155,00;;Queenstown
+188;Sim;Primeira Classe;"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")";Masculino;45;0;0;111428;$2.655,00;;Southampton
+189;Nao;Terceira Classe;Bourke, Mr. John;Masculino;40;1;1;364849;$155,00;;Queenstown
+190;Nao;Terceira Classe;Turcin, Mr. Stjepan;Masculino;36;0;0;349247;$78.958,00;;Southampton
+191;Sim;Segunda Classe;Pinsky, Mrs. (Rosa);Feminino;32;0;0;234604;$13,00;;Southampton
+192;Nao;Segunda Classe;Carbines, Mr. William;Masculino;19;0;0;28424;$13,00;;Southampton
+193;Sim;Terceira Classe;Andersen-Jensen, Miss. Carla Christine Nielsine;Feminino;19;1;0;350046;$78.542,00;;Southampton
+194;Sim;Segunda Classe;Navratil, Master. Michel M;Masculino;3;1;1;230080;$26,00;F2;Southampton
+195;Sim;Primeira Classe;Brown, Mrs. James Joseph (Margaret Tobin);Feminino;44;0;0;PC 17610;$277.208,00;B4;Cherbourg
+196;Sim;Primeira Classe;Lurette, Miss. Elise;Feminino;58;0;0;PC 17569;$1.465.208,00;B80;Cherbourg
+197;Nao;Terceira Classe;Mernagh, Mr. Robert;Masculino;;0;0;368703;$775,00;;Queenstown
+198;Nao;Terceira Classe;Olsen, Mr. Karl Siegwart Andreas;Masculino;42;0;1;4579;$84.042,00;;Southampton
+199;Sim;Terceira Classe;"Madigan, Miss. Margaret ""Maggie""";Feminino;;0;0;370370;$775,00;;Queenstown
+200;Nao;Segunda Classe;"Yrois, Miss. Henriette (""Mrs Harbeck"")";Feminino;24;0;0;248747;$13,00;;Southampton
+201;Nao;Terceira Classe;Vande Walle, Mr. Nestor Cyriel;Masculino;28;0;0;345770;$95,00;;Southampton
+202;Nao;Terceira Classe;Sage, Mr. Frederick;Masculino;;8;2;CA. 2343;$6.955,00;;Southampton
+203;Nao;Terceira Classe;Johanson, Mr. Jakob Alfred;Masculino;34;0;0;3101264;$64.958,00;;Southampton
+204;Nao;Terceira Classe;Youseff, Mr. Gerious;Masculino;45;0;0;2628;$7.225,00;;Cherbourg
+205;Sim;Terceira Classe;"Cohen, Mr. Gurshon ""Gus""";Masculino;18;0;0;A/5 3540;$805,00;;Southampton
+206;Nao;Terceira Classe;Strom, Miss. Telma Matilda;Feminino;2;0;1;347054;$104.625,00;G6;Southampton
+207;Nao;Terceira Classe;Backstrom, Mr. Karl Alfred;Masculino;32;1;0;3101278;$1.585,00;;Southampton
+208;Sim;Terceira Classe;Albimona, Mr. Nassef Cassem;Masculino;26;0;0;2699;$187.875,00;;Cherbourg
+209;Sim;Terceira Classe;"Carr, Miss. Helen ""Ellen""";Feminino;16;0;0;367231;$775,00;;Queenstown
+210;Sim;Primeira Classe;Blank, Mr. Henry;Masculino;40;0;0;112277;$31,00;A31;Cherbourg
+211;Nao;Terceira Classe;Ali, Mr. Ahmed;Masculino;24;0;0;SOTON/O.Q. 3101311;$705,00;;Southampton
+212;Sim;Segunda Classe;Cameron, Miss. Clear Annie;Feminino;35;0;0;F.C.C. 13528;$21,00;;Southampton
+213;Nao;Terceira Classe;Perkin, Mr. John Henry;Masculino;22;0;0;A/5 21174;$725,00;;Southampton
+214;Nao;Segunda Classe;Givard, Mr. Hans Kristensen;Masculino;30;0;0;250646;$13,00;;Southampton
+215;Nao;Terceira Classe;Kiernan, Mr. Philip;Masculino;;1;0;367229;$775,00;;Queenstown
+216;Sim;Primeira Classe;Newell, Miss. Madeleine;Feminino;31;1;0;35273;$113.275,00;D36;Cherbourg
+217;Sim;Terceira Classe;Honkanen, Miss. Eliina;Feminino;27;0;0;STON/O2. 3101283;$7.925,00;;Southampton
+218;Nao;Segunda Classe;Jacobsohn, Mr. Sidney Samuel;Masculino;42;1;0;243847;$27,00;;Southampton
+219;Sim;Primeira Classe;Bazzani, Miss. Albina;Feminino;32;0;0;11813;$762.917,00;D15;Cherbourg
+220;Nao;Segunda Classe;Harris, Mr. Walter;Masculino;30;0;0;W/C 14208;$105,00;;Southampton
+221;Sim;Terceira Classe;Sunderland, Mr. Victor Francis;Masculino;16;0;0;SOTON/OQ 392089;$805,00;;Southampton
+222;Nao;Segunda Classe;Bracken, Mr. James H;Masculino;27;0;0;220367;$13,00;;Southampton
+223;Nao;Terceira Classe;Green, Mr. George Henry;Masculino;51;0;0;21440;$805,00;;Southampton
+224;Nao;Terceira Classe;Nenkoff, Mr. Christo;Masculino;;0;0;349234;$78.958,00;;Southampton
+225;Sim;Primeira Classe;Hoyt, Mr. Frederick Maxfield;Masculino;38;1;0;19943;$90,00;C93;Southampton
+226;Nao;Terceira Classe;Berglund, Mr. Karl Ivar Sven;Masculino;22;0;0;PP 4348;$935,00;;Southampton
+227;Sim;Segunda Classe;Mellors, Mr. William John;Masculino;19;0;0;SW/PP 751;$105,00;;Southampton
+228;Nao;Terceira Classe;"Lovell, Mr. John Hall (""Henry"")";Masculino;20;0;0;A/5 21173;$725,00;;Southampton
+229;Nao;Segunda Classe;Fahlstrom, Mr. Arne Jonas;Masculino;18;0;0;236171;$13,00;;Southampton
+230;Nao;Terceira Classe;Lefebre, Miss. Mathilde;Feminino;;3;1;4133;$254.667,00;;Southampton
+231;Sim;Primeira Classe;Harris, Mrs. Henry Birkhardt (Irene Wallach);Feminino;35;1;0;36973;$83.475,00;C83;Southampton
+232;Nao;Terceira Classe;Larsson, Mr. Bengt Edvin;Masculino;29;0;0;347067;$7.775,00;;Southampton
+233;Nao;Segunda Classe;Sjostedt, Mr. Ernst Adolf;Masculino;59;0;0;237442;$135,00;;Southampton
+234;Sim;Terceira Classe;Asplund, Miss. Lillian Gertrud;Feminino;5;4;2;347077;$313.875,00;;Southampton
+235;Nao;Segunda Classe;Leyson, Mr. Robert William Norman;Masculino;24;0;0;C.A. 29566;$105,00;;Southampton
+236;Nao;Terceira Classe;Harknett, Miss. Alice Phoebe;Feminino;;0;0;W./C. 6609;$755,00;;Southampton
+237;Nao;Segunda Classe;Hold, Mr. Stephen;Masculino;44;1;0;26707;$26,00;;Southampton
+238;Sim;Segunda Classe;"Collyer, Miss. Marjorie ""Lottie""";Feminino;8;0;2;C.A. 31921;$2.625,00;;Southampton
+239;Nao;Segunda Classe;Pengelly, Mr. Frederick William;Masculino;19;0;0;28665;$105,00;;Southampton
+240;Nao;Segunda Classe;Hunt, Mr. George Henry;Masculino;33;0;0;SCO/W 1585;$12.275,00;;Southampton
+241;Nao;Terceira Classe;Zabour, Miss. Thamine;Feminino;;1;0;2665;$144.542,00;;Cherbourg
+242;Sim;Terceira Classe;"Murphy, Miss. Katherine ""Kate""";Feminino;;1;0;367230;$155,00;;Queenstown
+243;Nao;Segunda Classe;Coleridge, Mr. Reginald Charles;Masculino;29;0;0;W./C. 14263;$105,00;;Southampton
+244;Nao;Terceira Classe;Maenpaa, Mr. Matti Alexanteri;Masculino;22;0;0;STON/O 2. 3101275;$7.125,00;;Southampton
+245;Nao;Terceira Classe;Attalah, Mr. Sleiman;Masculino;30;0;0;2694;$7.225,00;;Cherbourg
+246;Nao;Primeira Classe;Minahan, Dr. William Edward;Masculino;44;2;0;19928;$90,00;C78;Queenstown
+247;Nao;Terceira Classe;Lindahl, Miss. Agda Thorilda Viktoria;Feminino;25;0;0;347071;$7.775,00;;Southampton
+248;Sim;Segunda Classe;Hamalainen, Mrs. William (Anna);Feminino;24;0;2;250649;$145,00;;Southampton
+249;Sim;Primeira Classe;Beckwith, Mr. Richard Leonard;Masculino;37;1;1;11751;$525.542,00;D35;Southampton
+250;Nao;Segunda Classe;Carter, Rev. Ernest Courtenay;Masculino;54;1;0;244252;$26,00;;Southampton
+251;Nao;Terceira Classe;Reed, Mr. James George;Masculino;;0;0;362316;$725,00;;Southampton
+252;Nao;Terceira Classe;Strom, Mrs. Wilhelm (Elna Matilda Persson);Feminino;29;1;1;347054;$104.625,00;G6;Southampton
+253;Nao;Primeira Classe;Stead, Mr. William Thomas;Masculino;62;0;0;113514;$2.655,00;C87;Southampton
+254;Nao;Terceira Classe;Lobb, Mr. William Arthur;Masculino;30;1;0;A/5. 3336;$161,00;;Southampton
+255;Nao;Terceira Classe;Rosblom, Mrs. Viktor (Helena Wilhelmina);Feminino;41;0;2;370129;$202.125,00;;Southampton
+256;Sim;Terceira Classe;Touma, Mrs. Darwis (Hanne Youssef Razi);Feminino;29;0;2;2650;$152.458,00;;Cherbourg
+257;Sim;Primeira Classe;Thorne, Mrs. Gertrude Maybelle;Feminino;;0;0;PC 17585;$792,00;;Cherbourg
+258;Sim;Primeira Classe;Cherry, Miss. Gladys;Feminino;30;0;0;110152;$865,00;B77;Southampton
+259;Sim;Primeira Classe;Ward, Miss. Anna;Feminino;35;0;0;PC 17755;$5.123.292,00;;Cherbourg
+260;Sim;Segunda Classe;Parrish, Mrs. (Lutie Davis);Feminino;50;0;1;230433;$26,00;;Southampton
+261;Nao;Terceira Classe;Smith, Mr. Thomas;Masculino;;0;0;384461;$775,00;;Queenstown
+262;Sim;Terceira Classe;Asplund, Master. Edvin Rojj Felix;Masculino;3;4;2;347077;$313.875,00;;Southampton
+263;Nao;Primeira Classe;Taussig, Mr. Emil;Masculino;52;1;1;110413;$7.965,00;E67;Southampton
+264;Nao;Primeira Classe;Harrison, Mr. William;Masculino;40;0;0;112059;$0,00;B94;Southampton
+265;Nao;Terceira Classe;Henry, Miss. Delia;Feminino;;0;0;382649;$775,00;;Queenstown
+266;Nao;Segunda Classe;Reeves, Mr. David;Masculino;36;0;0;C.A. 17248;$105,00;;Southampton
+267;Nao;Terceira Classe;Panula, Mr. Ernesti Arvid;Masculino;16;4;1;3101295;$396.875,00;;Southampton
+268;Sim;Terceira Classe;Persson, Mr. Ernst Ulrik;Masculino;25;1;0;347083;$7.775,00;;Southampton
+269;Sim;Primeira Classe;Graham, Mrs. William Thompson (Edith Junkins);Feminino;58;0;1;PC 17582;$1.534.625,00;C125;Southampton
+270;Sim;Primeira Classe;Bissette, Miss. Amelia;Feminino;35;0;0;PC 17760;$1.356.333,00;C99;Southampton
+271;Nao;Primeira Classe;Cairns, Mr. Alexander;Masculino;;0;0;113798;$31,00;;Southampton
+272;Sim;Terceira Classe;Tornquist, Mr. William Henry;Masculino;25;0;0;LINE;$0,00;;Southampton
+273;Sim;Segunda Classe;Mellinger, Mrs. (Elizabeth Anne Maidment);Feminino;41;0;1;250644;$195,00;;Southampton
+274;Nao;Primeira Classe;Natsch, Mr. Charles H;Masculino;37;0;1;PC 17596;$297,00;C118;Cherbourg
+275;Sim;Terceira Classe;"Healy, Miss. Hanora ""Nora""";Feminino;;0;0;370375;$775,00;;Queenstown
+276;Sim;Primeira Classe;Andrews, Miss. Kornelia Theodosia;Feminino;63;1;0;13502;$779.583,00;D7;Southampton
+277;Nao;Terceira Classe;Lindblom, Miss. Augusta Charlotta;Feminino;45;0;0;347073;$775,00;;Southampton
+278;Nao;Segunda Classe;"Parkes, Mr. Francis ""Frank""";Masculino;;0;0;239853;$0,00;;Southampton
+279;Nao;Terceira Classe;Rice, Master. Eric;Masculino;7;4;1;382652;$29.125,00;;Queenstown
+280;Sim;Terceira Classe;Abbott, Mrs. Stanton (Rosa Hunt);Feminino;35;1;1;C.A. 2673;$2.025,00;;Southampton
+281;Nao;Terceira Classe;Duane, Mr. Frank;Masculino;65;0;0;336439;$775,00;;Queenstown
+282;Nao;Terceira Classe;Olsson, Mr. Nils Johan Goransson;Masculino;28;0;0;347464;$78.542,00;;Southampton
+283;Nao;Terceira Classe;de Pelsmaeker, Mr. Alfons;Masculino;16;0;0;345778;$95,00;;Southampton
+284;Sim;Terceira Classe;Dorking, Mr. Edward Arthur;Masculino;19;0;0;A/5. 10482;$805,00;;Southampton
+285;Nao;Primeira Classe;Smith, Mr. Richard William;Masculino;;0;0;113056;$26,00;A19;Southampton
+286;Nao;Terceira Classe;Stankovic, Mr. Ivan;Masculino;33;0;0;349239;$86.625,00;;Cherbourg
+287;Sim;Terceira Classe;de Mulder, Mr. Theodore;Masculino;30;0;0;345774;$95,00;;Southampton
+288;Nao;Terceira Classe;Naidenoff, Mr. Penko;Masculino;22;0;0;349206;$78.958,00;;Southampton
+289;Sim;Segunda Classe;Hosono, Mr. Masabumi;Masculino;42;0;0;237798;$13,00;;Southampton
+290;Sim;Terceira Classe;Connolly, Miss. Kate;Feminino;22;0;0;370373;$775,00;;Queenstown
+291;Sim;Primeira Classe;"Barber, Miss. Ellen ""Nellie""";Feminino;26;0;0;19877;$7.885,00;;Southampton
+292;Sim;Primeira Classe;Bishop, Mrs. Dickinson H (Helen Walton);Feminino;19;1;0;11967;$910.792,00;B49;Cherbourg
+293;Nao;Segunda Classe;Levy, Mr. Rene Jacques;Masculino;36;0;0;SC/Paris 2163;$12.875,00;D;Cherbourg
+294;Nao;Terceira Classe;Haas, Miss. Aloisia;Feminino;24;0;0;349236;$885,00;;Southampton
+295;Nao;Terceira Classe;Mineff, Mr. Ivan;Masculino;24;0;0;349233;$78.958,00;;Southampton
+296;Nao;Primeira Classe;Lewy, Mr. Ervin G;Masculino;;0;0;PC 17612;$277.208,00;;Cherbourg
+297;Nao;Terceira Classe;Hanna, Mr. Mansour;Masculino;23;0;0;2693;$72.292,00;;Cherbourg
+298;Nao;Primeira Classe;Allison, Miss. Helen Loraine;Feminino;2;1;2;113781;$15.155,00;C22 C26;Southampton
+299;Sim;Primeira Classe;Saalfeld, Mr. Adolphe;Masculino;;0;0;19988;$305,00;C106;Southampton
+300;Sim;Primeira Classe;Baxter, Mrs. James (Helene DeLaudeniere Chaput);Feminino;50;0;1;PC 17558;$2.475.208,00;B58 B60;Cherbourg
+301;Sim;Terceira Classe;"Kelly, Miss. Anna Katherine ""Annie Kate""";Feminino;;0;0;9234;$775,00;;Queenstown
+302;Sim;Terceira Classe;McCoy, Mr. Bernard;Masculino;;2;0;367226;$2.325,00;;Queenstown
+303;Nao;Terceira Classe;Johnson, Mr. William Cahoone Jr;Masculino;19;0;0;LINE;$0,00;;Southampton
+304;Sim;Segunda Classe;Keane, Miss. Nora A;Feminino;;0;0;226593;$1.235,00;E101;Queenstown
+305;Nao;Terceira Classe;"Williams, Mr. Howard Hugh ""Harry""";Masculino;;0;0;A/5 2466;$805,00;;Southampton
+306;Sim;Primeira Classe;Allison, Master. Hudson Trevor;Masculino;92;1;2;113781;$15.155,00;C22 C26;Southampton
+307;Sim;Primeira Classe;Fleming, Miss. Margaret;Feminino;;0;0;17421;$1.108.833,00;;Cherbourg
+308;Sim;Primeira Classe;Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo);Feminino;17;1;0;PC 17758;$1.089,00;C65;Cherbourg
+309;Nao;Segunda Classe;Abelson, Mr. Samuel;Masculino;30;1;0;P/PP 3381;$24,00;;Cherbourg
+310;Sim;Primeira Classe;Francatelli, Miss. Laura Mabel;Feminino;30;0;0;PC 17485;$569.292,00;E36;Cherbourg
+311;Sim;Primeira Classe;Hays, Miss. Margaret Bechstein;Feminino;24;0;0;11767;$831.583,00;C54;Cherbourg
+312;Sim;Primeira Classe;Ryerson, Miss. Emily Borie;Feminino;18;2;2;PC 17608;$262.375,00;B57 B59 B63 B66;Cherbourg
+313;Nao;Segunda Classe;Lahtinen, Mrs. William (Anna Sylfven);Feminino;26;1;1;250651;$26,00;;Southampton
+314;Nao;Terceira Classe;Hendekovic, Mr. Ignjac;Masculino;28;0;0;349243;$78.958,00;;Southampton
+315;Nao;Segunda Classe;Hart, Mr. Benjamin;Masculino;43;1;1;F.C.C. 13529;$2.625,00;;Southampton
+316;Sim;Terceira Classe;Nilsson, Miss. Helmina Josefina;Feminino;26;0;0;347470;$78.542,00;;Southampton
+317;Sim;Segunda Classe;Kantor, Mrs. Sinai (Miriam Sternin);Feminino;24;1;0;244367;$26,00;;Southampton
+318;Nao;Segunda Classe;Moraweck, Dr. Ernest;Masculino;54;0;0;29011;$14,00;;Southampton
+319;Sim;Primeira Classe;Wick, Miss. Mary Natalie;Feminino;31;0;2;36928;$1.648.667,00;C7;Southampton
+320;Sim;Primeira Classe;Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone);Feminino;40;1;1;16966;$1.345,00;E34;Cherbourg
+321;Nao;Terceira Classe;Dennis, Mr. Samuel;Masculino;22;0;0;A/5 21172;$725,00;;Southampton
+322;Nao;Terceira Classe;Danoff, Mr. Yoto;Masculino;27;0;0;349219;$78.958,00;;Southampton
+323;Sim;Segunda Classe;Slayter, Miss. Hilda Mary;Feminino;30;0;0;234818;$1.235,00;;Queenstown
+324;Sim;Segunda Classe;Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh);Feminino;22;1;1;248738;$29,00;;Southampton
+325;Nao;Terceira Classe;Sage, Mr. George John Jr;Masculino;;8;2;CA. 2343;$6.955,00;;Southampton
+326;Sim;Primeira Classe;Young, Miss. Marie Grice;Feminino;36;0;0;PC 17760;$1.356.333,00;C32;Cherbourg
+327;Nao;Terceira Classe;Nysveen, Mr. Johan Hansen;Masculino;61;0;0;345364;$62.375,00;;Southampton
+328;Sim;Segunda Classe;Ball, Mrs. (Ada E Hall);Feminino;36;0;0;28551;$13,00;D;Southampton
+329;Sim;Terceira Classe;Goldsmith, Mrs. Frank John (Emily Alice Brown);Feminino;31;1;1;363291;$20.525,00;;Southampton
+330;Sim;Primeira Classe;Hippach, Miss. Jean Gertrude;Feminino;16;0;1;111361;$579.792,00;B18;Cherbourg
+331;Sim;Terceira Classe;McCoy, Miss. Agnes;Feminino;;2;0;367226;$2.325,00;;Queenstown
+332;Nao;Primeira Classe;Partner, Mr. Austen;Masculino;45;0;0;113043;$285,00;C124;Southampton
+333;Nao;Primeira Classe;Graham, Mr. George Edward;Masculino;38;0;1;PC 17582;$1.534.625,00;C91;Southampton
+334;Nao;Terceira Classe;Vander Planke, Mr. Leo Edmondus;Masculino;16;2;0;345764;$18,00;;Southampton
+335;Sim;Primeira Classe;Frauenthal, Mrs. Henry William (Clara Heinsheimer);Feminino;;1;0;PC 17611;$13.365,00;;Southampton
+336;Nao;Terceira Classe;Denkoff, Mr. Mitto;Masculino;;0;0;349225;$78.958,00;;Southampton
+337;Nao;Primeira Classe;Pears, Mr. Thomas Clinton;Masculino;29;1;0;113776;$666,00;C2;Southampton
+338;Sim;Primeira Classe;Burns, Miss. Elizabeth Margaret;Feminino;41;0;0;16966;$1.345,00;E40;Cherbourg
+339;Sim;Terceira Classe;Dahl, Mr. Karl Edwart;Masculino;45;0;0;7598;$805,00;;Southampton
+340;Nao;Primeira Classe;Blackwell, Mr. Stephen Weart;Masculino;45;0;0;113784;$355,00;T;Southampton
+341;Sim;Segunda Classe;Navratil, Master. Edmond Roger;Masculino;2;1;1;230080;$26,00;F2;Southampton
+342;Sim;Primeira Classe;Fortune, Miss. Alice Elizabeth;Feminino;24;3;2;19950;$263,00;C23 C25 C27;Southampton
+343;Nao;Segunda Classe;Collander, Mr. Erik Gustaf;Masculino;28;0;0;248740;$13,00;;Southampton
+344;Nao;Segunda Classe;Sedgwick, Mr. Charles Frederick Waddington;Masculino;25;0;0;244361;$13,00;;Southampton
+345;Nao;Segunda Classe;Fox, Mr. Stanley Hubert;Masculino;36;0;0;229236;$13,00;;Southampton
+346;Sim;Segunda Classe;"Brown, Miss. Amelia ""Mildred""";Feminino;24;0;0;248733;$13,00;F33;Southampton
+347;Sim;Segunda Classe;Smith, Miss. Marion Elsie;Feminino;40;0;0;31418;$13,00;;Southampton
+348;Sim;Terceira Classe;Davison, Mrs. Thomas Henry (Mary E Finck);Feminino;;1;0;386525;$161,00;;Southampton
+349;Sim;Terceira Classe;"Coutts, Master. William Loch ""William""";Masculino;3;1;1;C.A. 37671;$159,00;;Southampton
+350;Nao;Terceira Classe;Dimic, Mr. Jovan;Masculino;42;0;0;315088;$86.625,00;;Southampton
+351;Nao;Terceira Classe;Odahl, Mr. Nils Martin;Masculino;23;0;0;7267;$9.225,00;;Southampton
+352;Nao;Primeira Classe;Williams-Lambert, Mr. Fletcher Fellows;Masculino;;0;0;113510;$35,00;C128;Southampton
+353;Nao;Terceira Classe;Elias, Mr. Tannous;Masculino;15;1;1;2695;$72.292,00;;Cherbourg
+354;Nao;Terceira Classe;Arnold-Franchi, Mr. Josef;Masculino;25;1;0;349237;$178,00;;Southampton
+355;Nao;Terceira Classe;Yousif, Mr. Wazli;Masculino;;0;0;2647;$7.225,00;;Cherbourg
+356;Nao;Terceira Classe;Vanden Steen, Mr. Leo Peter;Masculino;28;0;0;345783;$95,00;;Southampton
+357;Sim;Primeira Classe;Bowerman, Miss. Elsie Edith;Feminino;22;0;1;113505;$55,00;E33;Southampton
+358;Nao;Segunda Classe;Funk, Miss. Annie Clemmer;Feminino;38;0;0;237671;$13,00;;Southampton
+359;Sim;Terceira Classe;McGovern, Miss. Mary;Feminino;;0;0;330931;$78.792,00;;Queenstown
+360;Sim;Terceira Classe;"Mockler, Miss. Helen Mary ""Ellie""";Feminino;;0;0;330980;$78.792,00;;Queenstown
+361;Nao;Terceira Classe;Skoog, Mr. Wilhelm;Masculino;40;1;4;347088;$279,00;;Southampton
+362;Nao;Segunda Classe;del Carlo, Mr. Sebastiano;Masculino;29;1;0;SC/PARIS 2167;$277.208,00;;Cherbourg
+363;Nao;Terceira Classe;Barbara, Mrs. (Catherine David);Feminino;45;0;1;2691;$144.542,00;;Cherbourg
+364;Nao;Terceira Classe;Asim, Mr. Adola;Masculino;35;0;0;SOTON/O.Q. 3101310;$705,00;;Southampton
+365;Nao;Terceira Classe;O'Brien, Mr. Thomas;Masculino;;1;0;370365;$155,00;;Queenstown
+366;Nao;Terceira Classe;Adahl, Mr. Mauritz Nils Martin;Masculino;30;0;0;C 7076;$725,00;;Southampton
+367;Sim;Primeira Classe;Warren, Mrs. Frank Manley (Anna Sophia Atkinson);Feminino;60;1;0;110813;$7.525,00;D37;Cherbourg
+368;Sim;Terceira Classe;Moussa, Mrs. (Mantoura Boulos);Feminino;;0;0;2626;$72.292,00;;Cherbourg
+369;Sim;Terceira Classe;Jermyn, Miss. Annie;Feminino;;0;0;14313;$775,00;;Queenstown
+370;Sim;Primeira Classe;Aubart, Mme. Leontine Pauline;Feminino;24;0;0;PC 17477;$693,00;B35;Cherbourg
+371;Sim;Primeira Classe;Harder, Mr. George Achilles;Masculino;25;1;0;11765;$554.417,00;E50;Cherbourg
+372;Nao;Terceira Classe;Wiklund, Mr. Jakob Alfred;Masculino;18;1;0;3101267;$64.958,00;;Southampton
+373;Nao;Terceira Classe;Beavan, Mr. William Thomas;Masculino;19;0;0;323951;$805,00;;Southampton
+374;Nao;Primeira Classe;Ringhini, Mr. Sante;Masculino;22;0;0;PC 17760;$1.356.333,00;;Cherbourg
+375;Nao;Terceira Classe;Palsson, Miss. Stina Viola;Feminino;3;3;1;349909;$21.075,00;;Southampton
+376;Sim;Primeira Classe;Meyer, Mrs. Edgar Joseph (Leila Saks);Feminino;;1;0;PC 17604;$821.708,00;;Cherbourg
+377;Sim;Terceira Classe;Landergren, Miss. Aurora Adelia;Feminino;22;0;0;C 7077;$725,00;;Southampton
+378;Nao;Primeira Classe;Widener, Mr. Harry Elkins;Masculino;27;0;2;113503;$2.115,00;C82;Cherbourg
+379;Nao;Terceira Classe;Betros, Mr. Tannous;Masculino;20;0;0;2648;$40.125,00;;Cherbourg
+380;Nao;Terceira Classe;Gustafsson, Mr. Karl Gideon;Masculino;19;0;0;347069;$7.775,00;;Southampton
+381;Sim;Primeira Classe;Bidois, Miss. Rosalie;Feminino;42;0;0;PC 17757;$227.525,00;;Cherbourg
+382;Sim;Terceira Classe;"Nakid, Miss. Maria (""Mary"")";Feminino;1;0;2;2653;$157.417,00;;Cherbourg
+383;Nao;Terceira Classe;Tikkanen, Mr. Juho;Masculino;32;0;0;STON/O 2. 3101293;$7.925,00;;Southampton
+384;Sim;Primeira Classe;Holverson, Mrs. Alexander Oskar (Mary Aline Towner);Feminino;35;1;0;113789;$52,00;;Southampton
+385;Nao;Terceira Classe;Plotcharsky, Mr. Vasil;Masculino;;0;0;349227;$78.958,00;;Southampton
+386;Nao;Segunda Classe;Davies, Mr. Charles Henry;Masculino;18;0;0;S.O.C. 14879;$735,00;;Southampton
+387;Nao;Terceira Classe;Goodwin, Master. Sidney Leonard;Masculino;1;5;2;CA 2144;$469,00;;Southampton
+388;Sim;Segunda Classe;Buss, Miss. Kate;Feminino;36;0;0;27849;$13,00;;Southampton
+389;Nao;Terceira Classe;Sadlier, Mr. Matthew;Masculino;;0;0;367655;$77.292,00;;Queenstown
+390;Sim;Segunda Classe;Lehmann, Miss. Bertha;Feminino;17;0;0;SC 1748;$12,00;;Cherbourg
+391;Sim;Primeira Classe;Carter, Mr. William Ernest;Masculino;36;1;2;113760;$120,00;B96 B98;Southampton
+392;Sim;Terceira Classe;Jansson, Mr. Carl Olof;Masculino;21;0;0;350034;$77.958,00;;Southampton
+393;Nao;Terceira Classe;Gustafsson, Mr. Johan Birger;Masculino;28;2;0;3101277;$7.925,00;;Southampton
+394;Sim;Primeira Classe;Newell, Miss. Marjorie;Feminino;23;1;0;35273;$113.275,00;D36;Cherbourg
+395;Sim;Terceira Classe;Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson);Feminino;24;0;2;PP 9549;$167,00;G6;Southampton
+396;Nao;Terceira Classe;Johansson, Mr. Erik;Masculino;22;0;0;350052;$77.958,00;;Southampton
+397;Nao;Terceira Classe;Olsson, Miss. Elina;Feminino;31;0;0;350407;$78.542,00;;Southampton
+398;Nao;Segunda Classe;McKane, Mr. Peter David;Masculino;46;0;0;28403;$26,00;;Southampton
+399;Nao;Segunda Classe;Pain, Dr. Alfred;Masculino;23;0;0;244278;$105,00;;Southampton
+400;Sim;Segunda Classe;Trout, Mrs. William H (Jessie L);Feminino;28;0;0;240929;$1.265,00;;Southampton
+401;Sim;Terceira Classe;Niskanen, Mr. Juha;Masculino;39;0;0;STON/O 2. 3101289;$7.925,00;;Southampton
+402;Nao;Terceira Classe;Adams, Mr. John;Masculino;26;0;0;341826;$805,00;;Southampton
+403;Nao;Terceira Classe;Jussila, Miss. Mari Aina;Feminino;21;1;0;4137;$9.825,00;;Southampton
+404;Nao;Terceira Classe;Hakkarainen, Mr. Pekka Pietari;Masculino;28;1;0;STON/O2. 3101279;$1.585,00;;Southampton
+405;Nao;Terceira Classe;Oreskovic, Miss. Marija;Feminino;20;0;0;315096;$86.625,00;;Southampton
+406;Nao;Segunda Classe;Gale, Mr. Shadrach;Masculino;34;1;0;28664;$21,00;;Southampton
+407;Nao;Terceira Classe;Widegren, Mr. Carl/Charles Peter;Masculino;51;0;0;347064;$775,00;;Southampton
+408;Sim;Segunda Classe;Richards, Master. William Rowe;Masculino;3;1;1;29106;$1.875,00;;Southampton
+409;Nao;Terceira Classe;Birkeland, Mr. Hans Martin Monsen;Masculino;21;0;0;312992;$7.775,00;;Southampton
+410;Nao;Terceira Classe;Lefebre, Miss. Ida;Feminino;;3;1;4133;$254.667,00;;Southampton
+411;Nao;Terceira Classe;Sdycoff, Mr. Todor;Masculino;;0;0;349222;$78.958,00;;Southampton
+412;Nao;Terceira Classe;Hart, Mr. Henry;Masculino;;0;0;394140;$68.583,00;;Queenstown
+413;Sim;Primeira Classe;Minahan, Miss. Daisy E;Feminino;33;1;0;19928;$90,00;C78;Queenstown
+414;Nao;Segunda Classe;Cunningham, Mr. Alfred Fleming;Masculino;;0;0;239853;$0,00;;Southampton
+415;Sim;Terceira Classe;Sundman, Mr. Johan Julian;Masculino;44;0;0;STON/O 2. 3101269;$7.925,00;;Southampton
+416;Nao;Terceira Classe;Meek, Mrs. Thomas (Annie Louise Rowley);Feminino;;0;0;343095;$805,00;;Southampton
+417;Sim;Segunda Classe;Drew, Mrs. James Vivian (Lulu Thorne Christian);Feminino;34;1;1;28220;$325,00;;Southampton
+418;Sim;Segunda Classe;Silven, Miss. Lyyli Karoliina;Feminino;18;0;2;250652;$13,00;;Southampton
+419;Nao;Segunda Classe;Matthews, Mr. William John;Masculino;30;0;0;28228;$13,00;;Southampton
+420;Nao;Terceira Classe;Van Impe, Miss. Catharina;Feminino;10;0;2;345773;$2.415,00;;Southampton
+421;Nao;Terceira Classe;Gheorgheff, Mr. Stanio;Masculino;;0;0;349254;$78.958,00;;Cherbourg
+422;Nao;Terceira Classe;Charters, Mr. David;Masculino;21;0;0;A/5. 13032;$77.333,00;;Queenstown
+423;Nao;Terceira Classe;Zimmerman, Mr. Leo;Masculino;29;0;0;315082;$7.875,00;;Southampton
+424;Nao;Terceira Classe;Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren);Feminino;28;1;1;347080;$144,00;;Southampton
+425;Nao;Terceira Classe;Rosblom, Mr. Viktor Richard;Masculino;18;1;1;370129;$202.125,00;;Southampton
+426;Nao;Terceira Classe;Wiseman, Mr. Phillippe;Masculino;;0;0;A/4. 34244;$725,00;;Southampton
+427;Sim;Segunda Classe;Clarke, Mrs. Charles V (Ada Maria Winfield);Feminino;28;1;0;2003;$26,00;;Southampton
+428;Sim;Segunda Classe;"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")";Feminino;19;0;0;250655;$26,00;;Southampton
+429;Nao;Terceira Classe;Flynn, Mr. James;Masculino;;0;0;364851;$775,00;;Queenstown
+430;Sim;Terceira Classe;Pickard, Mr. Berk (Berk Trembisky);Masculino;32;0;0;SOTON/O.Q. 392078;$805,00;E10;Southampton
+431;Sim;Primeira Classe;Bjornstrom-Steffansson, Mr. Mauritz Hakan;Masculino;28;0;0;110564;$2.655,00;C52;Southampton
+432;Sim;Terceira Classe;Thorneycroft, Mrs. Percival (Florence Kate White);Feminino;;1;0;376564;$161,00;;Southampton
+433;Sim;Segunda Classe;Louch, Mrs. Charles Alexander (Alice Adelaide Slow);Feminino;42;1;0;SC/AH 3085;$26,00;;Southampton
+434;Nao;Terceira Classe;Kallio, Mr. Nikolai Erland;Masculino;17;0;0;STON/O 2. 3101274;$7.125,00;;Southampton
+435;Nao;Primeira Classe;Silvey, Mr. William Baird;Masculino;50;1;0;13507;$559,00;E44;Southampton
+436;Sim;Primeira Classe;Carter, Miss. Lucile Polk;Feminino;14;1;2;113760;$120,00;B96 B98;Southampton
+437;Nao;Terceira Classe;"Ford, Miss. Doolina Margaret ""Daisy""";Feminino;21;2;2;W./C. 6608;$34.375,00;;Southampton
+438;Sim;Segunda Classe;Richards, Mrs. Sidney (Emily Hocking);Feminino;24;2;3;29106;$1.875,00;;Southampton
+439;Nao;Primeira Classe;Fortune, Mr. Mark;Masculino;64;1;4;19950;$263,00;C23 C25 C27;Southampton
+440;Nao;Segunda Classe;Kvillner, Mr. Johan Henrik Johannesson;Masculino;31;0;0;C.A. 18723;$105,00;;Southampton
+441;Sim;Segunda Classe;Hart, Mrs. Benjamin (Esther Ada Bloomfield);Feminino;45;1;1;F.C.C. 13529;$2.625,00;;Southampton
+442;Nao;Terceira Classe;Hampe, Mr. Leon;Masculino;20;0;0;345769;$95,00;;Southampton
+443;Nao;Terceira Classe;Petterson, Mr. Johan Emil;Masculino;25;1;0;347076;$7.775,00;;Southampton
+444;Sim;Segunda Classe;Reynaldo, Ms. Encarnacion;Feminino;28;0;0;230434;$13,00;;Southampton
+445;Sim;Terceira Classe;Johannesen-Bratthammer, Mr. Bernt;Masculino;;0;0;65306;$81.125,00;;Southampton
+446;Sim;Primeira Classe;Dodge, Master. Washington;Masculino;4;0;2;33638;$818.583,00;A34;Southampton
+447;Sim;Segunda Classe;Mellinger, Miss. Madeleine Violet;Feminino;13;0;1;250644;$195,00;;Southampton
+448;Sim;Primeira Classe;Seward, Mr. Frederic Kimber;Masculino;34;0;0;113794;$2.655,00;;Southampton
+449;Sim;Terceira Classe;Baclini, Miss. Marie Catherine;Feminino;5;2;1;2666;$192.583,00;;Cherbourg
+450;Sim;Primeira Classe;Peuchen, Major. Arthur Godfrey;Masculino;52;0;0;113786;$305,00;C104;Southampton
+451;Nao;Segunda Classe;West, Mr. Edwy Arthur;Masculino;36;1;2;C.A. 34651;$2.775,00;;Southampton
+452;Nao;Terceira Classe;Hagland, Mr. Ingvald Olai Olsen;Masculino;;1;0;65303;$199.667,00;;Southampton
+453;Nao;Primeira Classe;Foreman, Mr. Benjamin Laventall;Masculino;30;0;0;113051;$2.775,00;C111;Cherbourg
+454;Sim;Primeira Classe;Goldenberg, Mr. Samuel L;Masculino;49;1;0;17453;$891.042,00;C92;Cherbourg
+455;Nao;Terceira Classe;Peduzzi, Mr. Joseph;Masculino;;0;0;A/5 2817;$805,00;;Southampton
+456;Sim;Terceira Classe;Jalsevac, Mr. Ivan;Masculino;29;0;0;349240;$78.958,00;;Cherbourg
+457;Nao;Primeira Classe;Millet, Mr. Francis Davis;Masculino;65;0;0;13509;$2.655,00;E38;Southampton
+458;Sim;Primeira Classe;Kenyon, Mrs. Frederick R (Marion);Feminino;;1;0;17464;$518.625,00;D21;Southampton
+459;Sim;Segunda Classe;Toomey, Miss. Ellen;Feminino;50;0;0;F.C.C. 13531;$105,00;;Southampton
+460;Nao;Terceira Classe;O'Connor, Mr. Maurice;Masculino;;0;0;371060;$775,00;;Queenstown
+461;Sim;Primeira Classe;Anderson, Mr. Harry;Masculino;48;0;0;19952;$2.655,00;E12;Southampton
+462;Nao;Terceira Classe;Morley, Mr. William;Masculino;34;0;0;364506;$805,00;;Southampton
+463;Nao;Primeira Classe;Gee, Mr. Arthur H;Masculino;47;0;0;111320;$385,00;E63;Southampton
+464;Nao;Segunda Classe;Milling, Mr. Jacob Christian;Masculino;48;0;0;234360;$13,00;;Southampton
+465;Nao;Terceira Classe;Maisner, Mr. Simon;Masculino;;0;0;A/S 2816;$805,00;;Southampton
+466;Nao;Terceira Classe;Goncalves, Mr. Manuel Estanslas;Masculino;38;0;0;SOTON/O.Q. 3101306;$705,00;;Southampton
+467;Nao;Segunda Classe;Campbell, Mr. William;Masculino;;0;0;239853;$0,00;;Southampton
+468;Nao;Primeira Classe;Smart, Mr. John Montgomery;Masculino;56;0;0;113792;$2.655,00;;Southampton
+469;Nao;Terceira Classe;Scanlan, Mr. James;Masculino;;0;0;36209;$7.725,00;;Queenstown
+470;Sim;Terceira Classe;Baclini, Miss. Helene Barbara;Feminino;75;2;1;2666;$192.583,00;;Cherbourg
+471;Nao;Terceira Classe;Keefe, Mr. Arthur;Masculino;;0;0;323592;$725,00;;Southampton
+472;Nao;Terceira Classe;Cacic, Mr. Luka;Masculino;38;0;0;315089;$86.625,00;;Southampton
+473;Sim;Segunda Classe;West, Mrs. Edwy Arthur (Ada Mary Worth);Feminino;33;1;2;C.A. 34651;$2.775,00;;Southampton
+474;Sim;Segunda Classe;Jerwan, Mrs. Amin S (Marie Marthe Thuillard);Feminino;23;0;0;SC/AH Basle 541;$137.917,00;D;Cherbourg
+475;Nao;Terceira Classe;Strandberg, Miss. Ida Sofia;Feminino;22;0;0;7553;$98.375,00;;Southampton
+476;Nao;Primeira Classe;Clifford, Mr. George Quincy;Masculino;;0;0;110465;$52,00;A14;Southampton
+477;Nao;Segunda Classe;Renouf, Mr. Peter Henry;Masculino;34;1;0;31027;$21,00;;Southampton
+478;Nao;Terceira Classe;Braund, Mr. Lewis Richard;Masculino;29;1;0;3460;$70.458,00;;Southampton
+479;Nao;Terceira Classe;Karlsson, Mr. Nils August;Masculino;22;0;0;350060;$75.208,00;;Southampton
+480;Sim;Terceira Classe;Hirvonen, Miss. Hildur E;Feminino;2;0;1;3101298;$122.875,00;;Southampton
+481;Nao;Terceira Classe;Goodwin, Master. Harold Victor;Masculino;9;5;2;CA 2144;$469,00;;Southampton
+482;Nao;Segunda Classe;"Frost, Mr. Anthony Wood ""Archie""";Masculino;;0;0;239854;$0,00;;Southampton
+483;Nao;Terceira Classe;Rouse, Mr. Richard Henry;Masculino;50;0;0;A/5 3594;$805,00;;Southampton
+484;Sim;Terceira Classe;Turkula, Mrs. (Hedwig);Feminino;63;0;0;4134;$95.875,00;;Southampton
+485;Sim;Primeira Classe;Bishop, Mr. Dickinson H;Masculino;25;1;0;11967;$910.792,00;B49;Cherbourg
+486;Nao;Terceira Classe;Lefebre, Miss. Jeannie;Feminino;;3;1;4133;$254.667,00;;Southampton
+487;Sim;Primeira Classe;Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby);Feminino;35;1;0;19943;$90,00;C93;Southampton
+488;Nao;Primeira Classe;Kent, Mr. Edward Austin;Masculino;58;0;0;11771;$297,00;B37;Cherbourg
+489;Nao;Terceira Classe;Somerton, Mr. Francis William;Masculino;30;0;0;A.5. 18509;$805,00;;Southampton
+490;Sim;Terceira Classe;"Coutts, Master. Eden Leslie ""Neville""";Masculino;9;1;1;C.A. 37671;$159,00;;Southampton
+491;Nao;Terceira Classe;Hagland, Mr. Konrad Mathias Reiersen;Masculino;;1;0;65304;$199.667,00;;Southampton
+492;Nao;Terceira Classe;Windelov, Mr. Einar;Masculino;21;0;0;SOTON/OQ 3101317;$725,00;;Southampton
+493;Nao;Primeira Classe;Molson, Mr. Harry Markland;Masculino;55;0;0;113787;$305,00;C30;Southampton
+494;Nao;Primeira Classe;Artagaveytia, Mr. Ramon;Masculino;71;0;0;PC 17609;$495.042,00;;Cherbourg
+495;Nao;Terceira Classe;Stanley, Mr. Edward Roland;Masculino;21;0;0;A/4 45380;$805,00;;Southampton
+496;Nao;Terceira Classe;Yousseff, Mr. Gerious;Masculino;;0;0;2627;$144.583,00;;Cherbourg
+497;Sim;Primeira Classe;Eustis, Miss. Elizabeth Mussey;Feminino;54;1;0;36947;$782.667,00;D20;Cherbourg
+498;Nao;Terceira Classe;Shellard, Mr. Frederick William;Masculino;;0;0;C.A. 6212;$151,00;;Southampton
+499;Nao;Primeira Classe;Allison, Mrs. Hudson J C (Bessie Waldo Daniels);Feminino;25;1;2;113781;$15.155,00;C22 C26;Southampton
+500;Nao;Terceira Classe;Svensson, Mr. Olof;Masculino;24;0;0;350035;$77.958,00;;Southampton
+501;Nao;Terceira Classe;Calic, Mr. Petar;Masculino;17;0;0;315086;$86.625,00;;Southampton
+502;Nao;Terceira Classe;Canavan, Miss. Mary;Feminino;21;0;0;364846;$775,00;;Queenstown
+503;Nao;Terceira Classe;O'Sullivan, Miss. Bridget Mary;Feminino;;0;0;330909;$76.292,00;;Queenstown
+504;Nao;Terceira Classe;Laitinen, Miss. Kristina Sofia;Feminino;37;0;0;4135;$95.875,00;;Southampton
+505;Sim;Primeira Classe;Maioni, Miss. Roberta;Feminino;16;0;0;110152;$865,00;B79;Southampton
+506;Nao;Primeira Classe;Penasco y Castellana, Mr. Victor de Satode;Masculino;18;1;0;PC 17758;$1.089,00;C65;Cherbourg
+507;Sim;Segunda Classe;Quick, Mrs. Frederick Charles (Jane Richards);Feminino;33;0;2;26360;$26,00;;Southampton
+508;Sim;Primeira Classe;"Bradley, Mr. George (""George Arthur Brayton"")";Masculino;;0;0;111427;$2.655,00;;Southampton
+509;Nao;Terceira Classe;Olsen, Mr. Henry Margido;Masculino;28;0;0;C 4001;$22.525,00;;Southampton
+510;Sim;Terceira Classe;Lang, Mr. Fang;Masculino;26;0;0;1601;$564.958,00;;Southampton
+511;Sim;Terceira Classe;Daly, Mr. Eugene Patrick;Masculino;29;0;0;382651;$775,00;;Queenstown
+512;Nao;Terceira Classe;Webber, Mr. James;Masculino;;0;0;SOTON/OQ 3101316;$805,00;;Southampton
+513;Sim;Primeira Classe;McGough, Mr. James Robert;Masculino;36;0;0;PC 17473;$262.875,00;E25;Southampton
+514;Sim;Primeira Classe;Rothschild, Mrs. Martin (Elizabeth L. Barrett);Feminino;54;1;0;PC 17603;$594,00;;Cherbourg
+515;Nao;Terceira Classe;Coleff, Mr. Satio;Masculino;24;0;0;349209;$74.958,00;;Southampton
+516;Nao;Primeira Classe;Walker, Mr. William Anderson;Masculino;47;0;0;36967;$340.208,00;D46;Southampton
+517;Sim;Segunda Classe;Lemore, Mrs. (Amelia Milley);Feminino;34;0;0;C.A. 34260;$105,00;F33;Southampton
+518;Nao;Terceira Classe;Ryan, Mr. Patrick;Masculino;;0;0;371110;$2.415,00;;Queenstown
+519;Sim;Segunda Classe;"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)";Feminino;36;1;0;226875;$26,00;;Southampton
+520;Nao;Terceira Classe;Pavlovic, Mr. Stefo;Masculino;32;0;0;349242;$78.958,00;;Southampton
+521;Sim;Primeira Classe;Perreault, Miss. Anne;Feminino;30;0;0;12749;$935,00;B73;Southampton
+522;Nao;Terceira Classe;Vovk, Mr. Janko;Masculino;22;0;0;349252;$78.958,00;;Southampton
+523;Nao;Terceira Classe;Lahoud, Mr. Sarkis;Masculino;;0;0;2624;$7.225,00;;Cherbourg
+524;Sim;Primeira Classe;Hippach, Mrs. Louis Albert (Ida Sophia Fischer);Feminino;44;0;1;111361;$579.792,00;B18;Cherbourg
+525;Nao;Terceira Classe;Kassem, Mr. Fared;Masculino;;0;0;2700;$72.292,00;;Cherbourg
+526;Nao;Terceira Classe;Farrell, Mr. James;Masculino;40;0;0;367232;$775,00;;Queenstown
+527;Sim;Segunda Classe;Ridsdale, Miss. Lucy;Feminino;50;0;0;W./C. 14258;$105,00;;Southampton
+528;Nao;Primeira Classe;Farthing, Mr. John;Masculino;;0;0;PC 17483;$2.217.792,00;C95;Southampton
+529;Nao;Terceira Classe;Salonen, Mr. Johan Werner;Masculino;39;0;0;3101296;$7.925,00;;Southampton
+530;Nao;Segunda Classe;Hocking, Mr. Richard George;Masculino;23;2;1;29104;$115,00;;Southampton
+531;Sim;Segunda Classe;Quick, Miss. Phyllis May;Feminino;2;1;1;26360;$26,00;;Southampton
+532;Nao;Terceira Classe;Toufik, Mr. Nakli;Masculino;;0;0;2641;$72.292,00;;Cherbourg
+533;Nao;Terceira Classe;Elias, Mr. Joseph Jr;Masculino;17;1;1;2690;$72.292,00;;Cherbourg
+534;Sim;Terceira Classe;Peter, Mrs. Catherine (Catherine Rizk);Feminino;;0;2;2668;$223.583,00;;Cherbourg
+535;Nao;Terceira Classe;Cacic, Miss. Marija;Feminino;30;0;0;315084;$86.625,00;;Southampton
+536;Sim;Segunda Classe;Hart, Miss. Eva Miriam;Feminino;7;0;2;F.C.C. 13529;$2.625,00;;Southampton
+537;Nao;Primeira Classe;Butt, Major. Archibald Willingham;Masculino;45;0;0;113050;$2.655,00;B38;Southampton
+538;Sim;Primeira Classe;LeRoy, Miss. Bertha;Feminino;30;0;0;PC 17761;$106.425,00;;Cherbourg
+539;Nao;Terceira Classe;Risien, Mr. Samuel Beard;Masculino;;0;0;364498;$145,00;;Southampton
+540;Sim;Primeira Classe;Frolicher, Miss. Hedwig Margaritha;Feminino;22;0;2;13568;$495,00;B39;Cherbourg
+541;Sim;Primeira Classe;Crosby, Miss. Harriet R;Feminino;36;0;2;WE/P 5735;$71,00;B22;Southampton
+542;Nao;Terceira Classe;Andersson, Miss. Ingeborg Constanzia;Feminino;9;4;2;347082;$31.275,00;;Southampton
+543;Nao;Terceira Classe;Andersson, Miss. Sigrid Elisabeth;Feminino;11;4;2;347082;$31.275,00;;Southampton
+544;Sim;Segunda Classe;Beane, Mr. Edward;Masculino;32;1;0;2908;$26,00;;Southampton
+545;Nao;Primeira Classe;Douglas, Mr. Walter Donald;Masculino;50;1;0;PC 17761;$106.425,00;C86;Cherbourg
+546;Nao;Primeira Classe;Nicholson, Mr. Arthur Ernest;Masculino;64;0;0;693;$26,00;;Southampton
+547;Sim;Segunda Classe;Beane, Mrs. Edward (Ethel Clarke);Feminino;19;1;0;2908;$26,00;;Southampton
+548;Sim;Segunda Classe;Padro y Manent, Mr. Julian;Masculino;;0;0;SC/PARIS 2146;$138.625,00;;Cherbourg
+549;Nao;Terceira Classe;Goldsmith, Mr. Frank John;Masculino;33;1;1;363291;$20.525,00;;Southampton
+550;Sim;Segunda Classe;Davies, Master. John Morgan Jr;Masculino;8;1;1;C.A. 33112;$3.675,00;;Southampton
+551;Sim;Primeira Classe;Thayer, Mr. John Borland Jr;Masculino;17;0;2;17421;$1.108.833,00;C70;Cherbourg
+552;Nao;Segunda Classe;Sharp, Mr. Percival James R;Masculino;27;0;0;244358;$26,00;;Southampton
+553;Nao;Terceira Classe;O'Brien, Mr. Timothy;Masculino;;0;0;330979;$78.292,00;;Queenstown
+554;Sim;Terceira Classe;"Leeni, Mr. Fahim (""Philip Zenni"")";Masculino;22;0;0;2620;$7.225,00;;Cherbourg
+555;Sim;Terceira Classe;Ohman, Miss. Velin;Feminino;22;0;0;347085;$7.775,00;;Southampton
+556;Nao;Primeira Classe;Wright, Mr. George;Masculino;62;0;0;113807;$2.655,00;;Southampton
+557;Sim;Primeira Classe;"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")";Feminino;48;1;0;11755;$396,00;A16;Cherbourg
+558;Nao;Primeira Classe;Robbins, Mr. Victor;Masculino;;0;0;PC 17757;$227.525,00;;Cherbourg
+559;Sim;Primeira Classe;Taussig, Mrs. Emil (Tillie Mandelbaum);Feminino;39;1;1;110413;$7.965,00;E67;Southampton
+560;Sim;Terceira Classe;de Messemaeker, Mrs. Guillaume Joseph (Emma);Feminino;36;1;0;345572;$174,00;;Southampton
+561;Nao;Terceira Classe;Morrow, Mr. Thomas Rowan;Masculino;;0;0;372622;$775,00;;Queenstown
+562;Nao;Terceira Classe;Sivic, Mr. Husein;Masculino;40;0;0;349251;$78.958,00;;Southampton
+563;Nao;Segunda Classe;Norman, Mr. Robert Douglas;Masculino;28;0;0;218629;$135,00;;Southampton
+564;Nao;Terceira Classe;Simmons, Mr. John;Masculino;;0;0;SOTON/OQ 392082;$805,00;;Southampton
+565;Nao;Terceira Classe;Meanwell, Miss. (Marion Ogden);Feminino;;0;0;SOTON/O.Q. 392087;$805,00;;Southampton
+566;Nao;Terceira Classe;Davies, Mr. Alfred J;Masculino;24;2;0;A/4 48871;$2.415,00;;Southampton
+567;Nao;Terceira Classe;Stoytcheff, Mr. Ilia;Masculino;19;0;0;349205;$78.958,00;;Southampton
+568;Nao;Terceira Classe;Palsson, Mrs. Nils (Alma Cornelia Berglund);Feminino;29;0;4;349909;$21.075,00;;Southampton
+569;Nao;Terceira Classe;Doharr, Mr. Tannous;Masculino;;0;0;2686;$72.292,00;;Cherbourg
+570;Sim;Terceira Classe;Jonsson, Mr. Carl;Masculino;32;0;0;350417;$78.542,00;;Southampton
+571;Sim;Segunda Classe;Harris, Mr. George;Masculino;62;0;0;S.W./PP 752;$105,00;;Southampton
+572;Sim;Primeira Classe;Appleton, Mrs. Edward Dale (Charlotte Lamson);Feminino;53;2;0;11769;$514.792,00;C101;Southampton
+573;Sim;Primeira Classe;"Flynn, Mr. John Irwin (""Irving"")";Masculino;36;0;0;PC 17474;$263.875,00;E25;Southampton
+574;Sim;Terceira Classe;Kelly, Miss. Mary;Feminino;;0;0;14312;$775,00;;Queenstown
+575;Nao;Terceira Classe;Rush, Mr. Alfred George John;Masculino;16;0;0;A/4. 20589;$805,00;;Southampton
+576;Nao;Terceira Classe;Patchett, Mr. George;Masculino;19;0;0;358585;$145,00;;Southampton
+577;Sim;Segunda Classe;Garside, Miss. Ethel;Feminino;34;0;0;243880;$13,00;;Southampton
+578;Sim;Primeira Classe;Silvey, Mrs. William Baird (Alice Munger);Feminino;39;1;0;13507;$559,00;E44;Southampton
+579;Nao;Terceira Classe;Caram, Mrs. Joseph (Maria Elias);Feminino;;1;0;2689;$144.583,00;;Cherbourg
+580;Sim;Terceira Classe;Jussila, Mr. Eiriik;Masculino;32;0;0;STON/O 2. 3101286;$7.925,00;;Southampton
+581;Sim;Segunda Classe;Christy, Miss. Julie Rachel;Feminino;25;1;1;237789;$30,00;;Southampton
+582;Sim;Primeira Classe;Thayer, Mrs. John Borland (Marian Longstreth Morris);Feminino;39;1;1;17421;$1.108.833,00;C68;Cherbourg
+583;Nao;Segunda Classe;Downton, Mr. William James;Masculino;54;0;0;28403;$26,00;;Southampton
+584;Nao;Primeira Classe;Ross, Mr. John Hugo;Masculino;36;0;0;13049;$40.125,00;A10;Cherbourg
+585;Nao;Terceira Classe;Paulner, Mr. Uscher;Masculino;;0;0;3411;$87.125,00;;Cherbourg
+586;Sim;Primeira Classe;Taussig, Miss. Ruth;Feminino;18;0;2;110413;$7.965,00;E68;Southampton
+587;Nao;Segunda Classe;Jarvis, Mr. John Denzil;Masculino;47;0;0;237565;$15,00;;Southampton
+588;Sim;Primeira Classe;Frolicher-Stehli, Mr. Maxmillian;Masculino;60;1;1;13567;$792,00;B41;Cherbourg
+589;Nao;Terceira Classe;Gilinski, Mr. Eliezer;Masculino;22;0;0;14973;$805,00;;Southampton
+590;Nao;Terceira Classe;Murdlin, Mr. Joseph;Masculino;;0;0;A./5. 3235;$805,00;;Southampton
+591;Nao;Terceira Classe;Rintamaki, Mr. Matti;Masculino;35;0;0;STON/O 2. 3101273;$7.125,00;;Southampton
+592;Sim;Primeira Classe;Stephenson, Mrs. Walter Bertram (Martha Eustis);Feminino;52;1;0;36947;$782.667,00;D20;Cherbourg
+593;Nao;Terceira Classe;Elsbury, Mr. William James;Masculino;47;0;0;A/5 3902;$725,00;;Southampton
+594;Nao;Terceira Classe;Bourke, Miss. Mary;Feminino;;0;2;364848;$775,00;;Queenstown
+595;Nao;Segunda Classe;Chapman, Mr. John Henry;Masculino;37;1;0;SC/AH 29037;$26,00;;Southampton
+596;Nao;Terceira Classe;Van Impe, Mr. Jean Baptiste;Masculino;36;1;1;345773;$2.415,00;;Southampton
+597;Sim;Segunda Classe;Leitch, Miss. Jessie Wills;Feminino;;0;0;248727;$33,00;;Southampton
+598;Nao;Terceira Classe;Johnson, Mr. Alfred;Masculino;49;0;0;LINE;$0,00;;Southampton
+599;Nao;Terceira Classe;Boulos, Mr. Hanna;Masculino;;0;0;2664;$7.225,00;;Cherbourg
+600;Sim;Primeira Classe;"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")";Masculino;49;1;0;PC 17485;$569.292,00;A20;Cherbourg
+601;Sim;Segunda Classe;Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy);Feminino;24;2;1;243847;$27,00;;Southampton
+602;Nao;Terceira Classe;Slabenoff, Mr. Petco;Masculino;;0;0;349214;$78.958,00;;Southampton
+603;Nao;Primeira Classe;Harrington, Mr. Charles H;Masculino;;0;0;113796;$424,00;;Southampton
+604;Nao;Terceira Classe;Torber, Mr. Ernst William;Masculino;44;0;0;364511;$805,00;;Southampton
+605;Sim;Primeira Classe;"Homer, Mr. Harry (""Mr E Haven"")";Masculino;35;0;0;111426;$2.655,00;;Cherbourg
+606;Nao;Terceira Classe;Lindell, Mr. Edvard Bengtsson;Masculino;36;1;0;349910;$1.555,00;;Southampton
+607;Nao;Terceira Classe;Karaic, Mr. Milan;Masculino;30;0;0;349246;$78.958,00;;Southampton
+608;Sim;Primeira Classe;Daniel, Mr. Robert Williams;Masculino;27;0;0;113804;$305,00;;Southampton
+609;Sim;Segunda Classe;Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue);Feminino;22;1;2;SC/Paris 2123;$415.792,00;;Cherbourg
+610;Sim;Primeira Classe;Shutes, Miss. Elizabeth W;Feminino;40;0;0;PC 17582;$1.534.625,00;C125;Southampton
+611;Nao;Terceira Classe;Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren);Feminino;39;1;5;347082;$31.275,00;;Southampton
+612;Nao;Terceira Classe;Jardin, Mr. Jose Neto;Masculino;;0;0;SOTON/O.Q. 3101305;$705,00;;Southampton
+613;Sim;Terceira Classe;Murphy, Miss. Margaret Jane;Feminino;;1;0;367230;$155,00;;Queenstown
+614;Nao;Terceira Classe;Horgan, Mr. John;Masculino;;0;0;370377;$775,00;;Queenstown
+615;Nao;Terceira Classe;Brocklebank, Mr. William Alfred;Masculino;35;0;0;364512;$805,00;;Southampton
+616;Sim;Segunda Classe;Herman, Miss. Alice;Feminino;24;1;2;220845;$65,00;;Southampton
+617;Nao;Terceira Classe;Danbom, Mr. Ernst Gilbert;Masculino;34;1;1;347080;$144,00;;Southampton
+618;Nao;Terceira Classe;Lobb, Mrs. William Arthur (Cordelia K Stanlick);Feminino;26;1;0;A/5. 3336;$161,00;;Southampton
+619;Sim;Segunda Classe;Becker, Miss. Marion Louise;Feminino;4;2;1;230136;$39,00;F4;Southampton
+620;Nao;Segunda Classe;Gavey, Mr. Lawrence;Masculino;26;0;0;31028;$105,00;;Southampton
+621;Nao;Terceira Classe;Yasbeck, Mr. Antoni;Masculino;27;1;0;2659;$144.542,00;;Cherbourg
+622;Sim;Primeira Classe;Kimball, Mr. Edwin Nelson Jr;Masculino;42;1;0;11753;$525.542,00;D19;Southampton
+623;Sim;Terceira Classe;Nakid, Mr. Sahid;Masculino;20;1;1;2653;$157.417,00;;Cherbourg
+624;Nao;Terceira Classe;Hansen, Mr. Henry Damsgaard;Masculino;21;0;0;350029;$78.542,00;;Southampton
+625;Nao;Terceira Classe;"Bowen, Mr. David John ""Dai""";Masculino;21;0;0;54636;$161,00;;Southampton
+626;Nao;Primeira Classe;Sutton, Mr. Frederick;Masculino;61;0;0;36963;$323.208,00;D50;Southampton
+627;Nao;Segunda Classe;Kirkland, Rev. Charles Leonard;Masculino;57;0;0;219533;$1.235,00;;Queenstown
+628;Sim;Primeira Classe;Longley, Miss. Gretchen Fiske;Feminino;21;0;0;13502;$779.583,00;D9;Southampton
+629;Nao;Terceira Classe;Bostandyeff, Mr. Guentcho;Masculino;26;0;0;349224;$78.958,00;;Southampton
+630;Nao;Terceira Classe;O'Connell, Mr. Patrick D;Masculino;;0;0;334912;$77.333,00;;Queenstown
+631;Sim;Primeira Classe;Barkworth, Mr. Algernon Henry Wilson;Masculino;80;0;0;27042;$30,00;A23;Southampton
+632;Nao;Terceira Classe;Lundahl, Mr. Johan Svensson;Masculino;51;0;0;347743;$70.542,00;;Southampton
+633;Sim;Primeira Classe;Stahelin-Maeglin, Dr. Max;Masculino;32;0;0;13214;$305,00;B50;Cherbourg
+634;Nao;Primeira Classe;Parr, Mr. William Henry Marsh;Masculino;;0;0;112052;$0,00;;Southampton
+635;Nao;Terceira Classe;Skoog, Miss. Mabel;Feminino;9;3;2;347088;$279,00;;Southampton
+636;Sim;Segunda Classe;Davis, Miss. Mary;Feminino;28;0;0;237668;$13,00;;Southampton
+637;Nao;Terceira Classe;Leinonen, Mr. Antti Gustaf;Masculino;32;0;0;STON/O 2. 3101292;$7.925,00;;Southampton
+638;Nao;Segunda Classe;Collyer, Mr. Harvey;Masculino;31;1;1;C.A. 31921;$2.625,00;;Southampton
+639;Nao;Terceira Classe;Panula, Mrs. Juha (Maria Emilia Ojala);Feminino;41;0;5;3101295;$396.875,00;;Southampton
+640;Nao;Terceira Classe;Thorneycroft, Mr. Percival;Masculino;;1;0;376564;$161,00;;Southampton
+641;Nao;Terceira Classe;Jensen, Mr. Hans Peder;Masculino;20;0;0;350050;$78.542,00;;Southampton
+642;Sim;Primeira Classe;Sagesser, Mlle. Emma;Feminino;24;0;0;PC 17477;$693,00;B35;Cherbourg
+643;Nao;Terceira Classe;Skoog, Miss. Margit Elizabeth;Feminino;2;3;2;347088;$279,00;;Southampton
+644;Sim;Terceira Classe;Foo, Mr. Choong;Masculino;;0;0;1601;$564.958,00;;Southampton
+645;Sim;Terceira Classe;Baclini, Miss. Eugenie;Feminino;75;2;1;2666;$192.583,00;;Cherbourg
+646;Sim;Primeira Classe;Harper, Mr. Henry Sleeper;Masculino;48;1;0;PC 17572;$767.292,00;D33;Cherbourg
+647;Nao;Terceira Classe;Cor, Mr. Liudevit;Masculino;19;0;0;349231;$78.958,00;;Southampton
+648;Sim;Primeira Classe;Simonius-Blumer, Col. Oberst Alfons;Masculino;56;0;0;13213;$355,00;A26;Cherbourg
+649;Nao;Terceira Classe;Willey, Mr. Edward;Masculino;;0;0;S.O./P.P. 751;$755,00;;Southampton
+650;Sim;Terceira Classe;Stanley, Miss. Amy Zillah Elsie;Feminino;23;0;0;CA. 2314;$755,00;;Southampton
+651;Nao;Terceira Classe;Mitkoff, Mr. Mito;Masculino;;0;0;349221;$78.958,00;;Southampton
+652;Sim;Segunda Classe;Doling, Miss. Elsie;Feminino;18;0;1;231919;$23,00;;Southampton
+653;Nao;Terceira Classe;Kalvik, Mr. Johannes Halvorsen;Masculino;21;0;0;8475;$84.333,00;;Southampton
+654;Sim;Terceira Classe;"O'Leary, Miss. Hanora ""Norah""";Feminino;;0;0;330919;$78.292,00;;Queenstown
+655;Nao;Terceira Classe;"Hegarty, Miss. Hanora ""Nora""";Feminino;18;0;0;365226;$675,00;;Queenstown
+656;Nao;Segunda Classe;Hickman, Mr. Leonard Mark;Masculino;24;2;0;S.O.C. 14879;$735,00;;Southampton
+657;Nao;Terceira Classe;Radeff, Mr. Alexander;Masculino;;0;0;349223;$78.958,00;;Southampton
+658;Nao;Terceira Classe;Bourke, Mrs. John (Catherine);Feminino;32;1;1;364849;$155,00;;Queenstown
+659;Nao;Segunda Classe;Eitemiller, Mr. George Floyd;Masculino;23;0;0;29751;$13,00;;Southampton
+660;Nao;Primeira Classe;Newell, Mr. Arthur Webster;Masculino;58;0;2;35273;$113.275,00;D48;Cherbourg
+661;Sim;Primeira Classe;Frauenthal, Dr. Henry William;Masculino;50;2;0;PC 17611;$13.365,00;;Southampton
+662;Nao;Terceira Classe;Badt, Mr. Mohamed;Masculino;40;0;0;2623;$7.225,00;;Cherbourg
+663;Nao;Primeira Classe;Colley, Mr. Edward Pomeroy;Masculino;47;0;0;5727;$255.875,00;E58;Southampton
+664;Nao;Terceira Classe;Coleff, Mr. Peju;Masculino;36;0;0;349210;$74.958,00;;Southampton
+665;Sim;Terceira Classe;Lindqvist, Mr. Eino William;Masculino;20;1;0;STON/O 2. 3101285;$7.925,00;;Southampton
+666;Nao;Segunda Classe;Hickman, Mr. Lewis;Masculino;32;2;0;S.O.C. 14879;$735,00;;Southampton
+667;Nao;Segunda Classe;Butler, Mr. Reginald Fenton;Masculino;25;0;0;234686;$13,00;;Southampton
+668;Nao;Terceira Classe;Rommetvedt, Mr. Knud Paust;Masculino;;0;0;312993;$7.775,00;;Southampton
+669;Nao;Terceira Classe;Cook, Mr. Jacob;Masculino;43;0;0;A/5 3536;$805,00;;Southampton
+670;Sim;Primeira Classe;Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright);Feminino;;1;0;19996;$52,00;C126;Southampton
+671;Sim;Segunda Classe;Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford);Feminino;40;1;1;29750;$39,00;;Southampton
+672;Nao;Primeira Classe;Davidson, Mr. Thornton;Masculino;31;1;0;F.C. 12750;$52,00;B71;Southampton
+673;Nao;Segunda Classe;Mitchell, Mr. Henry Michael;Masculino;70;0;0;C.A. 24580;$105,00;;Southampton
+674;Sim;Segunda Classe;Wilhelms, Mr. Charles;Masculino;31;0;0;244270;$13,00;;Southampton
+675;Nao;Segunda Classe;Watson, Mr. Ennis Hastings;Masculino;;0;0;239856;$0,00;;Southampton
+676;Nao;Terceira Classe;Edvardsson, Mr. Gustaf Hjalmar;Masculino;18;0;0;349912;$7.775,00;;Southampton
+677;Nao;Terceira Classe;Sawyer, Mr. Frederick Charles;Masculino;24;0;0;342826;$805,00;;Southampton
+678;Sim;Terceira Classe;Turja, Miss. Anna Sofia;Feminino;18;0;0;4138;$98.417,00;;Southampton
+679;Nao;Terceira Classe;Goodwin, Mrs. Frederick (Augusta Tyler);Feminino;43;1;6;CA 2144;$469,00;;Southampton
+680;Sim;Primeira Classe;Cardeza, Mr. Thomas Drake Martinez;Masculino;36;0;1;PC 17755;$5.123.292,00;B51 B53 B55;Cherbourg
+681;Nao;Terceira Classe;Peters, Miss. Katie;Feminino;;0;0;330935;$81.375,00;;Queenstown
+682;Sim;Primeira Classe;Hassab, Mr. Hammad;Masculino;27;0;0;PC 17572;$767.292,00;D49;Cherbourg
+683;Nao;Terceira Classe;Olsvigen, Mr. Thor Anderson;Masculino;20;0;0;6563;$9.225,00;;Southampton
+684;Nao;Terceira Classe;Goodwin, Mr. Charles Edward;Masculino;14;5;2;CA 2144;$469,00;;Southampton
+685;Nao;Segunda Classe;Brown, Mr. Thomas William Solomon;Masculino;60;1;1;29750;$39,00;;Southampton
+686;Nao;Segunda Classe;Laroche, Mr. Joseph Philippe Lemercier;Masculino;25;1;2;SC/Paris 2123;$415.792,00;;Cherbourg
+687;Nao;Terceira Classe;Panula, Mr. Jaako Arnold;Masculino;14;4;1;3101295;$396.875,00;;Southampton
+688;Nao;Terceira Classe;Dakic, Mr. Branko;Masculino;19;0;0;349228;$101.708,00;;Southampton
+689;Nao;Terceira Classe;Fischer, Mr. Eberhard Thelander;Masculino;18;0;0;350036;$77.958,00;;Southampton
+690;Sim;Primeira Classe;Madill, Miss. Georgette Alexandra;Feminino;15;0;1;24160;$2.113.375,00;B5;Southampton
+691;Sim;Primeira Classe;Dick, Mr. Albert Adrian;Masculino;31;1;0;17474;$57,00;B20;Southampton
+692;Sim;Terceira Classe;Karun, Miss. Manca;Feminino;4;0;1;349256;$134.167,00;;Cherbourg
+693;Sim;Terceira Classe;Lam, Mr. Ali;Masculino;;0;0;1601;$564.958,00;;Southampton
+694;Nao;Terceira Classe;Saad, Mr. Khalil;Masculino;25;0;0;2672;$7.225,00;;Cherbourg
+695;Nao;Primeira Classe;Weir, Col. John;Masculino;60;0;0;113800;$2.655,00;;Southampton
+696;Nao;Segunda Classe;Chapman, Mr. Charles Henry;Masculino;52;0;0;248731;$135,00;;Southampton
+697;Nao;Terceira Classe;Kelly, Mr. James;Masculino;44;0;0;363592;$805,00;;Southampton
+698;Sim;Terceira Classe;"Mullens, Miss. Katherine ""Katie""";Feminino;;0;0;35852;$77.333,00;;Queenstown
+699;Nao;Primeira Classe;Thayer, Mr. John Borland;Masculino;49;1;1;17421;$1.108.833,00;C68;Cherbourg
+700;Nao;Terceira Classe;Humblen, Mr. Adolf Mathias Nicolai Olsen;Masculino;42;0;0;348121;$765,00;F G63;Southampton
+701;Sim;Primeira Classe;Astor, Mrs. John Jacob (Madeleine Talmadge Force);Feminino;18;1;0;PC 17757;$227.525,00;C62 C64;Cherbourg
+702;Sim;Primeira Classe;Silverthorne, Mr. Spencer Victor;Masculino;35;0;0;PC 17475;$262.875,00;E24;Southampton
+703;Nao;Terceira Classe;Barbara, Miss. Saiide;Feminino;18;0;1;2691;$144.542,00;;Cherbourg
+704;Nao;Terceira Classe;Gallagher, Mr. Martin;Masculino;25;0;0;36864;$77.417,00;;Queenstown
+705;Nao;Terceira Classe;Hansen, Mr. Henrik Juul;Masculino;26;1;0;350025;$78.542,00;;Southampton
+706;Nao;Segunda Classe;"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")";Masculino;39;0;0;250655;$26,00;;Southampton
+707;Sim;Segunda Classe;"Kelly, Mrs. Florence ""Fannie""";Feminino;45;0;0;223596;$135,00;;Southampton
+708;Sim;Primeira Classe;Calderhead, Mr. Edward Pennington;Masculino;42;0;0;PC 17476;$262.875,00;E24;Southampton
+709;Sim;Primeira Classe;Cleaver, Miss. Alice;Feminino;22;0;0;113781;$15.155,00;;Southampton
+710;Sim;Terceira Classe;"Moubarek, Master. Halim Gonios (""William George"")";Masculino;;1;1;2661;$152.458,00;;Cherbourg
+711;Sim;Primeira Classe;"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")";Feminino;24;0;0;PC 17482;$495.042,00;C90;Cherbourg
+712;Nao;Primeira Classe;Klaber, Mr. Herman;Masculino;;0;0;113028;$2.655,00;C124;Southampton
+713;Sim;Primeira Classe;Taylor, Mr. Elmer Zebley;Masculino;48;1;0;19996;$52,00;C126;Southampton
+714;Nao;Terceira Classe;Larsson, Mr. August Viktor;Masculino;29;0;0;7545;$94.833,00;;Southampton
+715;Nao;Segunda Classe;Greenberg, Mr. Samuel;Masculino;52;0;0;250647;$13,00;;Southampton
+716;Nao;Terceira Classe;Soholt, Mr. Peter Andreas Lauritz Andersen;Masculino;19;0;0;348124;$765,00;F G73;Southampton
+717;Sim;Primeira Classe;Endres, Miss. Caroline Louise;Feminino;38;0;0;PC 17757;$227.525,00;C45;Cherbourg
+718;Sim;Segunda Classe;"Troutt, Miss. Edwina Celia ""Winnie""";Feminino;27;0;0;34218;$105,00;E101;Southampton
+719;Nao;Terceira Classe;McEvoy, Mr. Michael;Masculino;;0;0;36568;$155,00;;Queenstown
+720;Nao;Terceira Classe;Johnson, Mr. Malkolm Joackim;Masculino;33;0;0;347062;$7.775,00;;Southampton
+721;Sim;Segunda Classe;"Harper, Miss. Annie Jessie ""Nina""";Feminino;6;0;1;248727;$33,00;;Southampton
+722;Nao;Terceira Classe;Jensen, Mr. Svend Lauritz;Masculino;17;1;0;350048;$70.542,00;;Southampton
+723;Nao;Segunda Classe;Gillespie, Mr. William Henry;Masculino;34;0;0;12233;$13,00;;Southampton
+724;Nao;Segunda Classe;Hodges, Mr. Henry Price;Masculino;50;0;0;250643;$13,00;;Southampton
+725;Sim;Primeira Classe;Chambers, Mr. Norman Campbell;Masculino;27;1;0;113806;$531,00;E8;Southampton
+726;Nao;Terceira Classe;Oreskovic, Mr. Luka;Masculino;20;0;0;315094;$86.625,00;;Southampton
+727;Sim;Segunda Classe;Renouf, Mrs. Peter Henry (Lillian Jefferys);Feminino;30;3;0;31027;$21,00;;Southampton
+728;Sim;Terceira Classe;Mannion, Miss. Margareth;Feminino;;0;0;36866;$77.375,00;;Queenstown
+729;Nao;Segunda Classe;Bryhl, Mr. Kurt Arnold Gottfrid;Masculino;25;1;0;236853;$26,00;;Southampton
+730;Nao;Terceira Classe;Ilmakangas, Miss. Pieta Sofia;Feminino;25;1;0;STON/O2. 3101271;$7.925,00;;Southampton
+731;Sim;Primeira Classe;Allen, Miss. Elisabeth Walton;Feminino;29;0;0;24160;$2.113.375,00;B5;Southampton
+732;Nao;Terceira Classe;Hassan, Mr. Houssein G N;Masculino;11;0;0;2699;$187.875,00;;Cherbourg
+733;Nao;Segunda Classe;Knight, Mr. Robert J;Masculino;;0;0;239855;$0,00;;Southampton
+734;Nao;Segunda Classe;Berriman, Mr. William John;Masculino;23;0;0;28425;$13,00;;Southampton
+735;Nao;Segunda Classe;Troupiansky, Mr. Moses Aaron;Masculino;23;0;0;233639;$13,00;;Southampton
+736;Nao;Terceira Classe;Williams, Mr. Leslie;Masculino;28;0;0;54636;$161,00;;Southampton
+737;Nao;Terceira Classe;Ford, Mrs. Edward (Margaret Ann Watson);Feminino;48;1;3;W./C. 6608;$34.375,00;;Southampton
+738;Sim;Primeira Classe;Lesurer, Mr. Gustave J;Masculino;35;0;0;PC 17755;$5.123.292,00;B101;Cherbourg
+739;Nao;Terceira Classe;Ivanoff, Mr. Kanio;Masculino;;0;0;349201;$78.958,00;;Southampton
+740;Nao;Terceira Classe;Nankoff, Mr. Minko;Masculino;;0;0;349218;$78.958,00;;Southampton
+741;Sim;Primeira Classe;Hawksford, Mr. Walter James;Masculino;;0;0;16988;$30,00;D45;Southampton
+742;Nao;Primeira Classe;Cavendish, Mr. Tyrell William;Masculino;36;1;0;19877;$7.885,00;C46;Southampton
+743;Sim;Primeira Classe;"Ryerson, Miss. Susan Parker ""Suzette""";Feminino;21;2;2;PC 17608;$262.375,00;B57 B59 B63 B66;Cherbourg
+744;Nao;Terceira Classe;McNamee, Mr. Neal;Masculino;24;1;0;376566;$161,00;;Southampton
+745;Sim;Terceira Classe;Stranden, Mr. Juho;Masculino;31;0;0;STON/O 2. 3101288;$7.925,00;;Southampton
+746;Nao;Primeira Classe;Crosby, Capt. Edward Gifford;Masculino;70;1;1;WE/P 5735;$71,00;B22;Southampton
+747;Nao;Terceira Classe;Abbott, Mr. Rossmore Edward;Masculino;16;1;1;C.A. 2673;$2.025,00;;Southampton
+748;Sim;Segunda Classe;Sinkkonen, Miss. Anna;Feminino;30;0;0;250648;$13,00;;Southampton
+749;Nao;Primeira Classe;Marvin, Mr. Daniel Warner;Masculino;19;1;0;113773;$531,00;D30;Southampton
+750;Nao;Terceira Classe;Connaghton, Mr. Michael;Masculino;31;0;0;335097;$775,00;;Queenstown
+751;Sim;Segunda Classe;Wells, Miss. Joan;Feminino;4;1;1;29103;$23,00;;Southampton
+752;Sim;Terceira Classe;Moor, Master. Meier;Masculino;6;0;1;392096;$12.475,00;E121;Southampton
+753;Nao;Terceira Classe;Vande Velde, Mr. Johannes Joseph;Masculino;33;0;0;345780;$95,00;;Southampton
+754;Nao;Terceira Classe;Jonkoff, Mr. Lalio;Masculino;23;0;0;349204;$78.958,00;;Southampton
+755;Sim;Segunda Classe;Herman, Mrs. Samuel (Jane Laver);Feminino;48;1;2;220845;$65,00;;Southampton
+756;Sim;Segunda Classe;Hamalainen, Master. Viljo;Masculino;67;1;1;250649;$145,00;;Southampton
+757;Nao;Terceira Classe;Carlsson, Mr. August Sigfrid;Masculino;28;0;0;350042;$77.958,00;;Southampton
+758;Nao;Segunda Classe;Bailey, Mr. Percy Andrew;Masculino;18;0;0;29108;$115,00;;Southampton
+759;Nao;Terceira Classe;Theobald, Mr. Thomas Leonard;Masculino;34;0;0;363294;$805,00;;Southampton
+760;Sim;Primeira Classe;Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards);Feminino;33;0;0;110152;$865,00;B77;Southampton
+761;Nao;Terceira Classe;Garfirth, Mr. John;Masculino;;0;0;358585;$145,00;;Southampton
+762;Nao;Terceira Classe;Nirva, Mr. Iisakki Antino Aijo;Masculino;41;0;0;SOTON/O2 3101272;$7.125,00;;Southampton
+763;Sim;Terceira Classe;Barah, Mr. Hanna Assi;Masculino;20;0;0;2663;$72.292,00;;Cherbourg
+764;Sim;Primeira Classe;Carter, Mrs. William Ernest (Lucile Polk);Feminino;36;1;2;113760;$120,00;B96 B98;Southampton
+765;Nao;Terceira Classe;Eklund, Mr. Hans Linus;Masculino;16;0;0;347074;$7.775,00;;Southampton
+766;Sim;Primeira Classe;Hogeboom, Mrs. John C (Anna Andrews);Feminino;51;1;0;13502;$779.583,00;D11;Southampton
+767;Nao;Primeira Classe;Brewe, Dr. Arthur Jackson;Masculino;;0;0;112379;$396,00;;Cherbourg
+768;Nao;Terceira Classe;Mangan, Miss. Mary;Feminino;30;0;0;364850;$775,00;;Queenstown
+769;Nao;Terceira Classe;Moran, Mr. Daniel J;Masculino;;1;0;371110;$2.415,00;;Queenstown
+770;Nao;Terceira Classe;Gronnestad, Mr. Daniel Danielsen;Masculino;32;0;0;8471;$83.625,00;;Southampton
+771;Nao;Terceira Classe;Lievens, Mr. Rene Aime;Masculino;24;0;0;345781;$95,00;;Southampton
+772;Nao;Terceira Classe;Jensen, Mr. Niels Peder;Masculino;48;0;0;350047;$78.542,00;;Southampton
+773;Nao;Segunda Classe;Mack, Mrs. (Mary);Feminino;57;0;0;S.O./P.P. 3;$105,00;E77;Southampton
+774;Nao;Terceira Classe;Elias, Mr. Dibo;Masculino;;0;0;2674;$7.225,00;;Cherbourg
+775;Sim;Segunda Classe;Hocking, Mrs. Elizabeth (Eliza Needs);Feminino;54;1;3;29105;$23,00;;Southampton
+776;Nao;Terceira Classe;Myhrman, Mr. Pehr Fabian Oliver Malkolm;Masculino;18;0;0;347078;$775,00;;Southampton
+777;Nao;Terceira Classe;Tobin, Mr. Roger;Masculino;;0;0;383121;$775,00;F38;Queenstown
+778;Sim;Terceira Classe;Emanuel, Miss. Virginia Ethel;Feminino;5;0;0;364516;$12.475,00;;Southampton
+779;Nao;Terceira Classe;Kilgannon, Mr. Thomas J;Masculino;;0;0;36865;$77.375,00;;Queenstown
+780;Sim;Primeira Classe;Robert, Mrs. Edward Scott (Elisabeth Walton McMillan);Feminino;43;0;1;24160;$2.113.375,00;B3;Southampton
+781;Sim;Terceira Classe;Ayoub, Miss. Banoura;Feminino;13;0;0;2687;$72.292,00;;Cherbourg
+782;Sim;Primeira Classe;Dick, Mrs. Albert Adrian (Vera Gillespie);Feminino;17;1;0;17474;$57,00;B20;Southampton
+783;Nao;Primeira Classe;Long, Mr. Milton Clyde;Masculino;29;0;0;113501;$30,00;D6;Southampton
+784;Nao;Terceira Classe;Johnston, Mr. Andrew G;Masculino;;1;2;W./C. 6607;$2.345,00;;Southampton
+785;Nao;Terceira Classe;Ali, Mr. William;Masculino;25;0;0;SOTON/O.Q. 3101312;$705,00;;Southampton
+786;Nao;Terceira Classe;Harmer, Mr. Abraham (David Lishin);Masculino;25;0;0;374887;$725,00;;Southampton
+787;Sim;Terceira Classe;Sjoblom, Miss. Anna Sofia;Feminino;18;0;0;3101265;$74.958,00;;Southampton
+788;Nao;Terceira Classe;Rice, Master. George Hugh;Masculino;8;4;1;382652;$29.125,00;;Queenstown
+789;Sim;Terceira Classe;Dean, Master. Bertram Vere;Masculino;1;1;2;C.A. 2315;$20.575,00;;Southampton
+790;Nao;Primeira Classe;Guggenheim, Mr. Benjamin;Masculino;46;0;0;PC 17593;$792,00;B82 B84;Cherbourg
+791;Nao;Terceira Classe;"Keane, Mr. Andrew ""Andy""";Masculino;;0;0;12460;$775,00;;Queenstown
+792;Nao;Segunda Classe;Gaskell, Mr. Alfred;Masculino;16;0;0;239865;$26,00;;Southampton
+793;Nao;Terceira Classe;Sage, Miss. Stella Anna;Feminino;;8;2;CA. 2343;$6.955,00;;Southampton
+794;Nao;Primeira Classe;Hoyt, Mr. William Fisher;Masculino;;0;0;PC 17600;$306.958,00;;Cherbourg
+795;Nao;Terceira Classe;Dantcheff, Mr. Ristiu;Masculino;25;0;0;349203;$78.958,00;;Southampton
+796;Nao;Segunda Classe;Otter, Mr. Richard;Masculino;39;0;0;28213;$13,00;;Southampton
+797;Sim;Primeira Classe;Leader, Dr. Alice (Farnham);Feminino;49;0;0;17465;$259.292,00;D17;Southampton
+798;Sim;Terceira Classe;Osman, Mrs. Mara;Feminino;31;0;0;349244;$86.833,00;;Southampton
+799;Nao;Terceira Classe;Ibrahim Shawah, Mr. Yousseff;Masculino;30;0;0;2685;$72.292,00;;Cherbourg
+800;Nao;Terceira Classe;Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert);Feminino;30;1;1;345773;$2.415,00;;Southampton
+801;Nao;Segunda Classe;Ponesell, Mr. Martin;Masculino;34;0;0;250647;$13,00;;Southampton
+802;Sim;Segunda Classe;Collyer, Mrs. Harvey (Charlotte Annie Tate);Feminino;31;1;1;C.A. 31921;$2.625,00;;Southampton
+803;Sim;Primeira Classe;Carter, Master. William Thornton II;Masculino;11;1;2;113760;$120,00;B96 B98;Southampton
+804;Sim;Terceira Classe;Thomas, Master. Assad Alexander;Masculino;42;0;1;2625;$85.167,00;;Cherbourg
+805;Sim;Terceira Classe;Hedman, Mr. Oskar Arvid;Masculino;27;0;0;347089;$6.975,00;;Southampton
+806;Nao;Terceira Classe;Johansson, Mr. Karl Johan;Masculino;31;0;0;347063;$7.775,00;;Southampton
+807;Nao;Primeira Classe;Andrews, Mr. Thomas Jr;Masculino;39;0;0;112050;$0,00;A36;Southampton
+808;Nao;Terceira Classe;Pettersson, Miss. Ellen Natalia;Feminino;18;0;0;347087;$7.775,00;;Southampton
+809;Nao;Segunda Classe;Meyer, Mr. August;Masculino;39;0;0;248723;$13,00;;Southampton
+810;Sim;Primeira Classe;Chambers, Mrs. Norman Campbell (Bertha Griggs);Feminino;33;1;0;113806;$531,00;E8;Southampton
+811;Nao;Terceira Classe;Alexander, Mr. William;Masculino;26;0;0;3474;$78.875,00;;Southampton
+812;Nao;Terceira Classe;Lester, Mr. James;Masculino;39;0;0;A/4 48871;$2.415,00;;Southampton
+813;Nao;Segunda Classe;Slemen, Mr. Richard James;Masculino;35;0;0;28206;$105,00;;Southampton
+814;Nao;Terceira Classe;Andersson, Miss. Ebba Iris Alfrida;Feminino;6;4;2;347082;$31.275,00;;Southampton
+815;Nao;Terceira Classe;Tomlin, Mr. Ernest Portage;Masculino;30;0;0;364499;$805,00;;Southampton
+816;Nao;Primeira Classe;Fry, Mr. Richard;Masculino;;0;0;112058;$0,00;B102;Southampton
+817;Nao;Terceira Classe;Heininen, Miss. Wendla Maria;Feminino;23;0;0;STON/O2. 3101290;$7.925,00;;Southampton
+818;Nao;Segunda Classe;Mallet, Mr. Albert;Masculino;31;1;1;S.C./PARIS 2079;$370.042,00;;Cherbourg
+819;Nao;Terceira Classe;Holm, Mr. John Fredrik Alexander;Masculino;43;0;0;C 7075;$645,00;;Southampton
+820;Nao;Terceira Classe;Skoog, Master. Karl Thorsten;Masculino;10;3;2;347088;$279,00;;Southampton
+821;Sim;Primeira Classe;Hays, Mrs. Charles Melville (Clara Jennings Gregg);Feminino;52;1;1;12749;$935,00;B69;Southampton
+822;Sim;Terceira Classe;Lulic, Mr. Nikola;Masculino;27;0;0;315098;$86.625,00;;Southampton
+823;Nao;Primeira Classe;Reuchlin, Jonkheer. John George;Masculino;38;0;0;19972;$0,00;;Southampton
+824;Sim;Terceira Classe;Moor, Mrs. (Beila);Feminino;27;0;1;392096;$12.475,00;E121;Southampton
+825;Nao;Terceira Classe;Panula, Master. Urho Abraham;Masculino;2;4;1;3101295;$396.875,00;;Southampton
+826;Nao;Terceira Classe;Flynn, Mr. John;Masculino;;0;0;368323;$695,00;;Queenstown
+827;Nao;Terceira Classe;Lam, Mr. Len;Masculino;;0;0;1601;$564.958,00;;Southampton
+828;Sim;Segunda Classe;Mallet, Master. Andre;Masculino;1;0;2;S.C./PARIS 2079;$370.042,00;;Cherbourg
+829;Sim;Terceira Classe;McCormack, Mr. Thomas Joseph;Masculino;;0;0;367228;$775,00;;Queenstown
+830;Sim;Primeira Classe;Stone, Mrs. George Nelson (Martha Evelyn);Feminino;62;0;0;113572;$80,00;B28;
+831;Sim;Terceira Classe;Yasbeck, Mrs. Antoni (Selini Alexander);Feminino;15;1;0;2659;$144.542,00;;Cherbourg
+832;Sim;Segunda Classe;Richards, Master. George Sibley;Masculino;83;1;1;29106;$1.875,00;;Southampton
+833;Nao;Terceira Classe;Saad, Mr. Amin;Masculino;;0;0;2671;$72.292,00;;Cherbourg
+834;Nao;Terceira Classe;Augustsson, Mr. Albert;Masculino;23;0;0;347468;$78.542,00;;Southampton
+835;Nao;Terceira Classe;Allum, Mr. Owen George;Masculino;18;0;0;2223;$83,00;;Southampton
+836;Sim;Primeira Classe;Compton, Miss. Sara Rebecca;Feminino;39;1;1;PC 17756;$831.583,00;E49;Cherbourg
+837;Nao;Terceira Classe;Pasic, Mr. Jakob;Masculino;21;0;0;315097;$86.625,00;;Southampton
+838;Nao;Terceira Classe;Sirota, Mr. Maurice;Masculino;;0;0;392092;$805,00;;Southampton
+839;Sim;Terceira Classe;Chip, Mr. Chang;Masculino;32;0;0;1601;$564.958,00;;Southampton
+840;Sim;Primeira Classe;Marechal, Mr. Pierre;Masculino;;0;0;11774;$297,00;C47;Cherbourg
+841;Nao;Terceira Classe;Alhomaki, Mr. Ilmari Rudolf;Masculino;20;0;0;SOTON/O2 3101287;$7.925,00;;Southampton
+842;Nao;Segunda Classe;Mudd, Mr. Thomas Charles;Masculino;16;0;0;S.O./P.P. 3;$105,00;;Southampton
+843;Sim;Primeira Classe;Serepeca, Miss. Augusta;Feminino;30;0;0;113798;$31,00;;Cherbourg
+844;Nao;Terceira Classe;Lemberopolous, Mr. Peter L;Masculino;34;0;0;2683;$64.375,00;;Cherbourg
+845;Nao;Terceira Classe;Culumovic, Mr. Jeso;Masculino;17;0;0;315090;$86.625,00;;Southampton
+846;Nao;Terceira Classe;Abbing, Mr. Anthony;Masculino;42;0;0;C.A. 5547;$755,00;;Southampton
+847;Nao;Terceira Classe;Sage, Mr. Douglas Bullen;Masculino;;8;2;CA. 2343;$6.955,00;;Southampton
+848;Nao;Terceira Classe;Markoff, Mr. Marin;Masculino;35;0;0;349213;$78.958,00;;Cherbourg
+849;Nao;Segunda Classe;Harper, Rev. John;Masculino;28;0;1;248727;$33,00;;Southampton
+850;Sim;Primeira Classe;Goldenberg, Mrs. Samuel L (Edwiga Grabowska);Feminino;;1;0;17453;$891.042,00;C92;Cherbourg
+851;Nao;Terceira Classe;Andersson, Master. Sigvard Harald Elias;Masculino;4;4;2;347082;$31.275,00;;Southampton
+852;Nao;Terceira Classe;Svensson, Mr. Johan;Masculino;74;0;0;347060;$7.775,00;;Southampton
+853;Nao;Terceira Classe;Boulos, Miss. Nourelain;Feminino;9;1;1;2678;$152.458,00;;Cherbourg
+854;Sim;Primeira Classe;Lines, Miss. Mary Conover;Feminino;16;0;1;PC 17592;$394,00;D28;Southampton
+855;Nao;Segunda Classe;Carter, Mrs. Ernest Courtenay (Lilian Hughes);Feminino;44;1;0;244252;$26,00;;Southampton
+856;Sim;Terceira Classe;Aks, Mrs. Sam (Leah Rosen);Feminino;18;0;1;392091;$935,00;;Southampton
+857;Sim;Primeira Classe;Wick, Mrs. George Dennick (Mary Hitchcock);Feminino;45;1;1;36928;$1.648.667,00;;Southampton
+858;Sim;Primeira Classe;Daly, Mr. Peter Denis ;Masculino;51;0;0;113055;$2.655,00;E17;Southampton
+859;Sim;Terceira Classe;Baclini, Mrs. Solomon (Latifa Qurban);Feminino;24;0;3;2666;$192.583,00;;Cherbourg
+860;Nao;Terceira Classe;Razi, Mr. Raihed;Masculino;;0;0;2629;$72.292,00;;Cherbourg
+861;Nao;Terceira Classe;Hansen, Mr. Claus Peter;Masculino;41;2;0;350026;$141.083,00;;Southampton
+862;Nao;Segunda Classe;Giles, Mr. Frederick Edward;Masculino;21;1;0;28134;$115,00;;Southampton
+863;Sim;Primeira Classe;Swift, Mrs. Frederick Joel (Margaret Welles Barron);Feminino;48;0;0;17466;$259.292,00;D17;Southampton
+864;Nao;Terceira Classe;"Sage, Miss. Dorothy Edith ""Dolly""";Feminino;;8;2;CA. 2343;$6.955,00;;Southampton
+865;Nao;Segunda Classe;Gill, Mr. John William;Masculino;24;0;0;233866;$13,00;;Southampton
+866;Sim;Segunda Classe;Bystrom, Mrs. (Karolina);Feminino;42;0;0;236852;$13,00;;Southampton
+867;Sim;Segunda Classe;Duran y More, Miss. Asuncion;Feminino;27;1;0;SC/PARIS 2149;$138.583,00;;Cherbourg
+868;Nao;Primeira Classe;Roebling, Mr. Washington Augustus II;Masculino;31;0;0;PC 17590;$504.958,00;A24;Southampton
+869;Nao;Terceira Classe;van Melkebeke, Mr. Philemon;Masculino;;0;0;345777;$95,00;;Southampton
+870;Sim;Terceira Classe;Johnson, Master. Harold Theodor;Masculino;4;1;1;347742;$111.333,00;;Southampton
+871;Nao;Terceira Classe;Balkic, Mr. Cerin;Masculino;26;0;0;349248;$78.958,00;;Southampton
+872;Sim;Primeira Classe;Beckwith, Mrs. Richard Leonard (Sallie Monypeny);Feminino;47;1;1;11751;$525.542,00;D35;Southampton
+873;Nao;Primeira Classe;Carlsson, Mr. Frans Olof;Masculino;33;0;0;695;$5,00;B51 B53 B55;Southampton
+874;Nao;Terceira Classe;Vander Cruyssen, Mr. Victor;Masculino;47;0;0;345765;$9,00;;Southampton
+875;Sim;Segunda Classe;Abelson, Mrs. Samuel (Hannah Wizosky);Feminino;28;1;0;P/PP 3381;$24,00;;Cherbourg
+876;Sim;Terceira Classe;"Najib, Miss. Adele Kiamie ""Jane""";Feminino;15;0;0;2667;$7.225,00;;Cherbourg
+877;Nao;Terceira Classe;Gustafsson, Mr. Alfred Ossian;Masculino;20;0;0;7534;$98.458,00;;Southampton
+878;Nao;Terceira Classe;Petroff, Mr. Nedelio;Masculino;19;0;0;349212;$78.958,00;;Southampton
+879;Nao;Terceira Classe;Laleff, Mr. Kristo;Masculino;;0;0;349217;$78.958,00;;Southampton
+880;Sim;Primeira Classe;Potter, Mrs. Thomas Jr (Lily Alexenia Wilson);Feminino;56;0;1;11767;$831.583,00;C50;Cherbourg
+881;Sim;Segunda Classe;Shelley, Mrs. William (Imanita Parrish Hall);Feminino;25;0;1;230433;$26,00;;Southampton
+882;Nao;Terceira Classe;Markun, Mr. Johann;Masculino;33;0;0;349257;$78.958,00;;Southampton
+883;Nao;Terceira Classe;Dahlberg, Miss. Gerda Ulrika;Feminino;22;0;0;7552;$105.167,00;;Southampton
+884;Nao;Segunda Classe;Banfield, Mr. Frederick James;Masculino;28;0;0;C.A./SOTON 34068;$105,00;;Southampton
+885;Nao;Terceira Classe;Sutehall, Mr. Henry Jr;Masculino;25;0;0;SOTON/OQ 392076;$705,00;;Southampton
+886;Nao;Terceira Classe;Rice, Mrs. William (Margaret Norton);Feminino;39;0;5;382652;$29.125,00;;Queenstown
+887;Nao;Segunda Classe;Montvila, Rev. Juozas;Masculino;27;0;0;211536;$13,00;;Southampton
+888;Sim;Primeira Classe;Graham, Miss. Margaret Edith;Feminino;19;0;0;112053;$30,00;B42;Southampton
+889;Nao;Terceira Classe;"Johnston, Miss. Catherine Helen ""Carrie""";Feminino;;1;2;W./C. 6607;$2.345,00;;Southampton
+890;Sim;Primeira Classe;Behr, Mr. Karl Howell;Masculino;26;0;0;111369;$30,00;C148;Cherbourg
+891;Nao;Terceira Classe;Dooley, Mr. Patrick;Masculino;32;0;0;370376;$775,00;;Queenstown
